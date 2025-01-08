@@ -1,0 +1,1097 @@
+product,created_at,core_product_type,modifier,creator,department,occasion,color,material,product_name,content,origin,UoM,time,condition,quantity,shape,product_number,price,ts,attribute,core_product_type_string
+wedding accessories,Fri Jun 23 12:53:21 +0000 2023,['accessories'],[],[],[],['wedding'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-23 12:53:21,accessories ,accessories 
+fashion magazines subscription,Thu Jun 22 11:29:37 +0000 2023,['magazines'],"['fashion', 'subscription']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-22 11:29:37,fashion ,magazines 
+men's style accessories,Thu Jun 22 11:29:37 +0000 2023,['accessories'],['style'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-22 11:29:37,accessories ,accessories 
+Second Life Accessories Pack,Sun Jun 25 14:54:48 +0000 2023,['accessories'],[],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],['pack'],[],[],[],2023-06-25 14:54:48,accessories ,accessories 
+Ayla and Moore fashion accessories,Mon Jun 26 06:28:20 +0000 2023,['accessories'],['fashion'],"['ayla', 'moore']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-26 06:28:20,fashion accessories ,accessories 
+fashion accessories,Fri Jun 23 06:50:20 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-23 06:50:20,fashion accessories ,accessories 
+Fashion Streetwear,Sun Jun 25 23:35:54 +0000 2023,[],[],"['fashion', 'streetwear']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-25 23:35:54,fashion ,
+travel accessories set,Thu Jun 22 21:16:09 +0000 2023,['accessories'],[],[],[],['travel'],[],[],[],[],[],[],[],[],['set'],[],[],[],2023-06-22 21:16:09,accessories ,accessories 
+high-fashion travel outfit,Thu Jun 22 21:16:09 +0000 2023,['outfit'],"['high', 'fashion']",[],[],['travel'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-22 21:16:09,fashion ,outfit 
+fashion photography book,Sun Jun 25 04:57:42 +0000 2023,['book'],['fashion'],[],[],[],[],[],['photography'],[],[],[],[],[],[],[],[],[],2023-06-25 04:57:42,fashion ,book 
+travel photography accessories,Sun Jun 25 04:57:42 +0000 2023,['accessories'],[],[],[],"['travel', 'photography']",[],[],[],[],[],[],[],[],[],[],[],[],2023-06-25 04:57:42,accessories ,accessories 
+Japanese fashion clothing,Sun Jun 25 04:57:42 +0000 2023,['clothing'],['fashion'],[],[],[],[],[],[],[],['japanese'],[],[],[],[],[],[],[],2023-06-25 04:57:42,fashion ,clothing 
+Rock 'n' Roll Accessories,Sat Jun 24 12:14:19 +0000 2023,['accessories'],[],"['rock', 'n', 'roll']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-24 12:14:19,accessories ,accessories 
+Berlin Retro Style Accessories,Fri Jun 23 22:25:33 +0000 2023,['accessories'],"['retro', 'style']",[],[],[],[],[],[],[],['berlin'],[],[],[],[],[],[],[],2023-06-23 22:25:33,accessories ,accessories 
+Fashion Blog Bestsellers,Sun Jun 25 20:09:01 +0000 2023,[],[],"['fashion', 'blog']",[],[],[],[],['bestsellers'],[],[],[],[],[],[],[],[],[],2023-06-25 20:09:01,fashion ,
+fashion photography prints,Sat Jun 24 13:13:44 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-24 13:13:44,fashion ,prints 
+pinup fashion outfits,Sun Jun 25 23:22:26 +0000 2023,['outfits'],['fashion'],['pinup'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-25 23:22:26,fashion ,outfits 
+fashion hats,Sun Jun 25 23:22:26 +0000 2023,['hats'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-25 23:22:26,fashion ,hats 
+fashion illustration prints,Sun Jun 25 13:53:20 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-06-25 13:53:20,fashion ,prints 
+fashion design portfolio,Sun Jun 25 13:53:20 +0000 2023,[],['fashion'],[],[],[],[],[],"['design', 'portfolio']",[],[],[],[],[],[],[],[],[],2023-06-25 13:53:20,fashion ,
+Luxury Menswear Accessories,Tue Jun 20 21:31:26 +0000 2023,['accessories'],['luxury'],[],['menswear'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-20 21:31:26,accessories ,accessories 
+Fashion Show Merchandise,Tue Jun 20 21:31:26 +0000 2023,['merchandise'],['fashion'],[],[],['show'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-20 21:31:26,fashion ,merchandise 
+hair accessories,Tue Jun 20 15:57:56 +0000 2023,"['hair', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-20 15:57:56,accessories ,hair accessories 
+3D Fashion Design Software,Wed Jun 21 10:11:49 +0000 2023,[],[],[],[],['fashion'],[],[],"['design', 'software']",[],[],['3d'],[],[],[],[],[],[],2023-06-21 10:11:49,fashion ,
+Fashion Photography Course,Wed Jun 21 10:11:49 +0000 2023,['course'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-21 10:11:49,fashion ,course 
+Fashion Photography Print,Wed Jun 21 04:32:25 +0000 2023,[],"['fashion', 'print']",[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-21 04:32:25,fashion ,
+Fashion Stylist Consultation,Wed Jun 21 04:32:25 +0000 2023,[],['fashion'],[],[],[],[],[],"['stylist', 'consultation']",[],[],[],[],[],[],[],[],[],2023-06-21 04:32:25,fashion ,
+Fashion Nova kids clothing,Wed Jun 21 21:59:45 +0000 2023,['clothing'],[],"['fashion', 'nova']",['kids'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-21 21:59:45,fashion ,clothing 
+Hair accessories for kids,Wed Jun 21 21:59:45 +0000 2023,"['hair', 'accessories']",[],[],['kids'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-21 21:59:45,accessories ,hair accessories 
+fashion accessories,Tue Jun 20 08:18:27 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-20 08:18:27,fashion accessories ,accessories 
+Fashion Spinner Wheel,Wed Jun 21 10:34:09 +0000 2023,"['spinner', 'wheel']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-21 10:34:09,fashion ,spinner wheel 
+Girly Fashion Items,Wed Jun 21 10:34:09 +0000 2023,['items'],"['girly', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-21 10:34:09,fashion ,items 
+fashion accessories,Wed Jun 21 03:18:17 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-21 03:18:17,fashion accessories ,accessories 
+Fashion Nail Design Stickers,Thu Jun 22 08:01:05 +0000 2023,"['nail', 'stickers']","['fashion', 'design']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-22 08:01:05,fashion ,nail stickers 
+fashion sunglasses,Tue Jun 20 03:21:38 +0000 2023,['sunglasses'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-20 03:21:38,fashion ,sunglasses 
+urban fashion clothing,Tue Jun 20 03:21:38 +0000 2023,['clothing'],['fashion'],['urban'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-20 03:21:38,fashion ,clothing 
+professional camera accessories,Tue Jun 20 03:21:38 +0000 2023,"['camera', 'accessories']",['professional'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-20 03:21:38,accessories ,camera accessories 
+fashion photography prints,Tue Jun 20 03:21:38 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-20 03:21:38,fashion ,prints 
+Michael Kors Fashion Accessories,Wed Jun 21 05:05:07 +0000 2023,['accessories'],['fashion'],"['michael', 'kors']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-21 05:05:07,fashion accessories ,accessories 
+fashion photography backdrop,Wed Jun 21 16:46:58 +0000 2023,['backdrop'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-21 16:46:58,fashion ,backdrop 
+Fashion Week Paris Apparel,Wed Jun 21 21:14:47 +0000 2023,['apparel'],[],"['fashion', 'week']",[],[],[],[],[],[],['paris'],[],[],[],[],[],[],[],2023-06-21 21:14:47,fashion ,apparel 
+African-Inspired Fashion Accessories,Wed Jun 21 21:14:47 +0000 2023,['accessories'],"['african', '-', 'inspired']",[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-21 21:14:47,fashion accessories ,accessories 
+Fashion Show Tickets,Wed Jun 21 21:14:47 +0000 2023,['tickets'],[],[],[],"['fashion', 'show']",[],[],[],[],[],[],[],[],[],[],[],[],2023-06-21 21:14:47,fashion ,tickets 
+Fashion Designer Silk Material,Wed Jun 21 10:50:17 +0000 2023,[],['fashion'],[],[],[],[],"['silk', 'material']",['designer'],[],[],[],[],[],[],[],[],[],2023-06-21 10:50:17,fashion ,
+Dyeable Organza for Fashion Designers,Wed Jun 21 10:50:20 +0000 2023,[],['dyeable'],['fashion'],['designers'],[],[],['organza'],[],[],[],[],[],[],[],[],[],[],2023-06-21 10:50:20,fashion ,
+Fashion Fabrics for Boutiques,Wed Jun 21 10:50:20 +0000 2023,[],['fashion'],[],['boutiques'],[],[],['fabrics'],[],[],[],[],[],[],[],[],[],[],2023-06-21 10:50:20,fashion ,
+Amazon Fashion Outfits,Sun Jun 18 12:59:55 +0000 2023,['outfits'],['fashion'],['amazon'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-18 12:59:55,fashion ,outfits 
+Hair Accessories (like flowers),Sun Jun 18 12:59:55 +0000 2023,"['hair', 'accessories', ')']",['flowers'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-18 12:59:55,accessories ,hair accessories ) 
+Fashion Jewelry (like necklaces or earrings),Sun Jun 18 12:59:55 +0000 2023,"['jewelry', 'necklaces', 'earrings']",['fashion'],[],[],[],[],[],[')'],[],[],[],[],[],[],[],[],[],2023-06-18 12:59:55,fashion ,jewelry necklaces earrings 
+fashion model merchandise,Sat Jun 17 22:14:16 +0000 2023,['merchandise'],['fashion'],[],['model'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-17 22:14:16,fashion ,merchandise 
+fashion show tickets,Sat Jun 17 22:14:16 +0000 2023,['tickets'],[],[],[],"['fashion', 'show']",[],[],[],[],[],[],[],[],[],[],[],[],2023-06-17 22:14:16,fashion ,tickets 
+Fashion Sandals,Mon Jun 19 17:22:07 +0000 2023,['sandals'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-19 17:22:07,fashion ,sandals 
+Fashion Accessories,Mon Jun 19 17:22:07 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-19 17:22:07,fashion accessories ,accessories 
+Gourmet banana accessories,Mon Jun 19 22:52:05 +0000 2023,"['banana', 'accessories']",['gourmet'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-19 22:52:05,accessories ,banana accessories 
+Fashion illustration books,Mon Jun 19 22:52:05 +0000 2023,['books'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-19 22:52:05,fashion ,books 
+fashion magazines,Tue Jun 20 03:11:32 +0000 2023,['magazines'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-20 03:11:32,fashion ,magazines 
+fashion week outfits,Mon Jun 19 04:57:54 +0000 2023,['outfits'],[],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-06-19 04:57:54,fashion ,outfits 
+statement accessories,Mon Jun 19 04:57:54 +0000 2023,['accessories'],['statement'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-19 04:57:54,accessories ,accessories 
+fashion photography books,Mon Jun 19 12:21:57 +0000 2023,['books'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-19 12:21:57,fashion ,books 
+fashion photography props,Mon Jun 19 04:55:23 +0000 2023,['props'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-19 04:55:23,fashion ,props 
+Second Life avatar accessories,Mon Jun 19 15:57:16 +0000 2023,['accessories'],[],"['second', 'avatar']",[],[],[],[],['life'],[],[],[],[],[],[],[],[],[],2023-06-19 15:57:16,accessories ,accessories 
+Second Life fashion poses,Mon Jun 19 15:57:16 +0000 2023,[],['fashion'],"['second', 'life']",[],[],[],[],['poses'],[],[],[],[],[],[],[],[],[],2023-06-19 15:57:16,fashion ,
+Second Life Fashion Accessories,Sat Jun 17 15:34:59 +0000 2023,['accessories'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-17 15:34:59,fashion accessories ,accessories 
+futuristic fashion jacket,Sun Jun 18 14:55:10 +0000 2023,['jacket'],"['futuristic', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-18 14:55:10,fashion ,jacket 
+avant-garde fashion accessories,Sun Jun 18 14:55:10 +0000 2023,['accessories'],"['avant', 'garde']",[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-18 14:55:10,fashion accessories ,accessories 
+Intricate Knitted Fashion Dress,Sun Jun 18 15:02:59 +0000 2023,['dress'],"['intricate', 'fashion']",[],[],[],[],['knitted'],[],[],[],[],[],[],[],[],[],[],2023-06-18 15:02:59,fashion ,dress 
+Fashion Styling Books,Sun Jun 18 15:02:59 +0000 2023,['books'],['fashion'],[],[],[],[],[],['styling'],[],[],[],[],[],[],[],[],[],2023-06-18 15:02:59,fashion ,books 
+Trendy Dystopian Fashion Apparel,Mon Jun 19 08:28:21 +0000 2023,['apparel'],"['trendy', 'fashion']",[],[],[],[],[],[],[],['dystopian'],[],[],[],[],[],[],[],2023-06-19 08:28:21,fashion ,apparel 
+Fashionista Accessories,Mon Jun 19 08:28:21 +0000 2023,['accessories'],[],['fashionista'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-19 08:28:21,accessories ,accessories 
+workout accessories,Mon Jun 19 00:44:36 +0000 2023,['accessories'],[],[],[],['workout'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-19 00:44:36,accessories ,accessories 
+Fashion Design Courses,Mon Jun 19 17:51:04 +0000 2023,['courses'],[],[],[],"['fashion', 'design']",[],[],[],[],[],[],[],[],[],[],[],[],2023-06-19 17:51:04,fashion ,courses 
+Books on Fashion Entrepreneurship,Mon Jun 19 17:51:04 +0000 2023,['books'],[],[],[],[],[],[],[],"['on', 'fashion', 'entrepreneurship']",[],[],[],[],[],[],[],[],2023-06-19 17:51:04,fashion ,books 
+Destiny 2 Fashion Guide Book,Tue Nov 28 08:30:30 +0000 2023,[],[],['destiny'],[],['fashion'],[],[],[],"['2', 'guide', 'book']",[],[],[],[],[],[],[],[],2023-11-28 08:30:30,fashion ,
+fashion jewelry,Wed Nov 29 13:45:32 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-29 13:45:32,fashion ,jewelry 
+fashion accessories,Wed Nov 29 13:45:32 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-29 13:45:32,fashion accessories ,accessories 
+Fashion Earrings,Wed Nov 29 16:55:37 +0000 2023,['earrings'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-29 16:55:37,fashion ,earrings 
+Second Life fashion items,Tue Nov 28 18:02:03 +0000 2023,['items'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-28 18:02:03,fashion ,items 
+Virtual avatar accessories,Tue Nov 28 18:02:03 +0000 2023,['accessories'],['virtual'],['avatar'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-28 18:02:03,accessories ,accessories 
+Virtual Fashion Accessories,Wed Nov 29 16:24:16 +0000 2023,['accessories'],"['virtual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-29 16:24:16,fashion accessories ,accessories 
+Virtual Fashion Robe,Fri Nov 24 17:17:43 +0000 2023,['robe'],"['virtual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-24 17:17:43,fashion ,robe 
+Avatar Accessories for Second Life,Fri Nov 24 17:17:43 +0000 2023,['accessories'],['life'],['avatar'],[],['second'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-24 17:17:43,accessories ,accessories 
+Fashion Nova Dresses,Sun Nov 26 05:23:32 +0000 2023,['dresses'],[],"['fashion', 'nova']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-26 05:23:32,fashion ,dresses 
+High Fashion Runway Accessories,Sun Nov 26 05:23:32 +0000 2023,['accessories'],"['high', 'fashion']",[],[],['runway'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-26 05:23:32,fashion accessories ,accessories 
+Fashion Video Subscription Services,Sun Nov 26 05:23:32 +0000 2023,['services'],['fashion'],[],[],[],[],[],"['video', 'subscription']",[],[],[],[],[],[],[],[],[],2023-11-26 05:23:32,fashion ,services 
+fashion jewelry,Sun Nov 26 05:27:04 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-26 05:27:04,fashion ,jewelry 
+fashion nova clothing,Sun Nov 26 05:27:04 +0000 2023,['clothing'],[],"['fashion', 'nova']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-26 05:27:04,fashion ,clothing 
+Adore Me Fashion Accessories,Wed Nov 29 17:30:48 +0000 2023,['accessories'],['fashion'],"['adore', 'me']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-29 17:30:48,fashion accessories ,accessories 
+Fashion Week Apparel,Wed Nov 29 17:30:48 +0000 2023,['apparel'],[],['fashion'],[],['week'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-29 17:30:48,fashion ,apparel 
+Fashion Event Merchandise,Tue Nov 28 22:36:57 +0000 2023,['merchandise'],['fashion'],[],[],['event'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-28 22:36:57,fashion ,merchandise 
+Fashion Nova Clothing,Sun Nov 26 04:42:36 +0000 2023,['clothing'],[],"['fashion', 'nova']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-26 04:42:36,fashion ,clothing 
+Glamour Fashion Accessories,Sun Nov 26 04:42:36 +0000 2023,['accessories'],['fashion'],['glamour'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-26 04:42:36,fashion accessories ,accessories 
+Fashion Photography Services,Sun Nov 26 04:42:36 +0000 2023,['photography'],['fashion'],['services'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-26 04:42:36,fashion ,photography 
+Fashion Lookbooks,Sun Nov 26 04:42:36 +0000 2023,['lookbooks'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-26 04:42:36,fashion ,lookbooks 
+AI-generated Fashion Illustration Prints,Wed Nov 29 13:17:33 +0000 2023,['prints'],"['generated', 'fashion']",['ai'],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-11-29 13:17:33,fashion ,prints 
+Fashion Illustration Print,Wed Nov 29 13:50:25 +0000 2023,[],"['fashion', 'print']",[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-11-29 13:50:25,fashion ,
+fashion accessories,Tue Nov 28 07:30:00 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-28 07:30:00,fashion accessories ,accessories 
+fashion illustration prints,Wed Nov 29 09:49:11 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-11-29 09:49:11,fashion ,prints 
+designer fashion sketches,Wed Nov 29 09:49:11 +0000 2023,[],"['designer', 'fashion']",[],[],[],[],[],['sketches'],[],[],[],[],[],[],[],[],[],2023-11-29 09:49:11,fashion ,
+street style fashion accessories,Thu Nov 23 11:49:29 +0000 2023,['accessories'],"['street', 'style', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-23 11:49:29,fashion accessories ,accessories 
+handcrafted fashion accessories,Fri Nov 24 13:48:10 +0000 2023,['accessories'],"['handcrafted', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-24 13:48:10,fashion accessories ,accessories 
+fashion illustration prints,Fri Nov 24 12:08:52 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-11-24 12:08:52,fashion ,prints 
+fashion tech pack services,Fri Nov 24 12:08:52 +0000 2023,"['pack', 'services']",['fashion'],[],[],[],[],[],['tech'],[],[],[],[],[],[],[],[],[],2023-11-24 12:08:52,fashion ,pack services 
+nft fashion items,Fri Nov 24 12:08:52 +0000 2023,['items'],['fashion'],['nft'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-24 12:08:52,fashion ,items 
+high-fashion heels,Thu Nov 23 17:39:24 +0000 2023,['heels'],"['high', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-23 17:39:24,fashion ,heels 
+fashion show tickets,Thu Nov 23 17:39:24 +0000 2023,['tickets'],[],[],[],"['fashion', 'show']",[],[],[],[],[],[],[],[],[],[],[],[],2023-11-23 17:39:24,fashion ,tickets 
+runway-inspired accessories,Wed Nov 22 17:02:37 +0000 2023,['accessories'],"['-', 'inspired']",[],[],['runway'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-22 17:02:37,accessories ,accessories 
+high-fashion tights,Wed Nov 22 17:02:37 +0000 2023,['tights'],"['high', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-22 17:02:37,fashion ,tights 
+MARTA SIERRA fashion items on Vinted,Fri Nov 24 13:02:24 +0000 2023,['items'],['fashion'],"['marta', 'sierra']",[],[],[],['vinted'],[],[],[],[],[],[],[],[],[],[],2023-11-24 13:02:24,fashion ,items 
+fashion photography prints,Tue Nov 21 13:09:54 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-21 13:09:54,fashion ,prints 
+Fashion Week Event Tickets,Fri Nov 24 17:15:42 +0000 2023,['tickets'],[],[],[],"['fashion', 'week', 'event']",[],[],[],[],[],[],[],[],[],[],[],[],2023-11-24 17:15:42,fashion ,tickets 
+Fashion Graphic Tees,Fri Nov 24 17:15:42 +0000 2023,['tees'],"['fashion', 'graphic']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-24 17:15:42,fashion ,tees 
+fashion accessories,Tue Nov 21 17:27:18 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-21 17:27:18,fashion accessories ,accessories 
+fashion props for second life,Tue Nov 21 17:27:18 +0000 2023,['props'],['fashion'],[],[],['second'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-21 17:27:18,fashion ,props 
+Second Life Fashion Accessories,Wed Nov 22 17:48:25 +0000 2023,['accessories'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-22 17:48:25,fashion accessories ,accessories 
+King YAHWEH Accessories,Thu Nov 23 14:21:14 +0000 2023,['accessories'],[],"['king', 'yahweh']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-23 14:21:14,accessories ,accessories 
+fashion illustration prints,Thu Nov 23 20:22:51 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-11-23 20:22:51,fashion ,prints 
+fashion statement jewelry,Fri Nov 24 07:59:53 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],['statement'],[],[],[],[],[],[],[],[],[],2023-11-24 07:59:53,fashion ,jewelry 
+Black Friday Fashion Deals,Tue Nov 21 15:45:20 +0000 2023,[],[],[],[],"['friday', 'fashion', 'deals']",['black'],[],[],[],[],[],[],[],[],[],[],[],2023-11-21 15:45:20,fashion ,
+Fashion Clothing,Tue Nov 21 15:45:20 +0000 2023,['clothing'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-21 15:45:20,fashion ,clothing 
+Fashion Accessories,Tue Nov 21 15:45:20 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-21 15:45:20,fashion accessories ,accessories 
+Swim Accessories,Sun Nov 19 13:01:39 +0000 2023,"['swim', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-19 13:01:39,accessories ,swim accessories 
+Men's Fashion Accessories,Sat Nov 18 02:21:20 +0000 2023,['accessories'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-18 02:21:20,fashion accessories ,accessories 
+Fashion Stylist Consultation,Sat Nov 18 02:21:20 +0000 2023,[],['fashion'],[],[],[],[],[],"['stylist', 'consultation']",[],[],[],[],[],[],[],[],[],2023-11-18 02:21:20,fashion ,
+fashion statement accessories,Sat Nov 18 06:42:11 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],['statement'],[],[],[],[],[],[],[],[],[],2023-11-18 06:42:11,fashion accessories ,accessories 
+Fashion Princess game merchandise,Mon Nov 20 13:00:02 +0000 2023,"['game', 'merchandise']",['fashion'],[],[],[],[],[],['princess'],[],[],[],[],[],[],[],[],[],2023-11-20 13:00:02,fashion ,game merchandise 
+trend-based fashion accessories,Sun Nov 19 05:19:01 +0000 2023,['accessories'],"['trend', 'based', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-19 05:19:01,fashion accessories ,accessories 
+Saree Fashion Accessories,Fri Nov 17 11:27:38 +0000 2023,['saree'],['fashion'],[],['accessories'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-17 11:27:38,fashion accessories ,saree 
+Ethnic Fashion Jewelry,Fri Nov 17 11:27:38 +0000 2023,['jewelry'],['fashion'],['ethnic'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-17 11:27:38,fashion ,jewelry 
+second life avatar accessories,Sat Nov 18 21:02:32 +0000 2023,['accessories'],[],"['second', 'avatar']",[],[],[],[],['life'],[],[],[],[],[],[],[],[],[],2023-11-18 21:02:32,accessories ,accessories 
+digital fashion models,Sat Nov 18 21:02:32 +0000 2023,[],"['digital', 'fashion']",[],['models'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-18 21:02:32,fashion ,
+fashion poses for avatars,Sat Nov 18 21:02:32 +0000 2023,[],['fashion'],[],[],[],[],[],"['poses', 'avatars']",[],[],[],[],[],[],[],[],[],2023-11-18 21:02:32,fashion ,
+modern fashion statement pieces,Sun Nov 19 19:01:58 +0000 2023,['pieces'],['fashion'],[],[],[],[],[],['statement'],[],[],[],['modern'],[],[],[],[],[],2023-11-19 19:01:58,fashion ,pieces 
+Fashion accessories,Mon Nov 20 17:02:40 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-20 17:02:40,fashion accessories ,accessories 
+Art Hearts Fashion collection,Mon Nov 20 17:02:40 +0000 2023,[],['fashion'],"['art', 'hearts']",[],[],[],[],['collection'],[],[],[],[],[],[],[],[],[],2023-11-20 17:02:40,fashion ,
+Fashion Accessories,Mon Nov 20 23:14:12 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-20 23:14:12,fashion accessories ,accessories 
+Traditional Indian accessories,Sat Nov 18 06:11:06 +0000 2023,['accessories'],['traditional'],[],[],[],[],[],[],[],['indian'],[],[],[],[],[],[],[],2023-11-18 06:11:06,accessories ,accessories 
+Fashion Cardigan from Shopee,Mon Nov 20 11:16:42 +0000 2023,['cardigan'],['fashion'],['shopee'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-20 11:16:42,fashion ,cardigan 
+Fashion week official merchandise,Thu Nov 16 05:46:40 +0000 2023,['merchandise'],['official'],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 05:46:40,fashion ,merchandise 
+Anime-themed accessories,Thu Nov 16 05:46:40 +0000 2023,['accessories'],"['-', 'themed']",[],[],[],[],[],[],['anime'],[],[],[],[],[],[],[],[],2023-11-16 05:46:40,accessories ,accessories 
+Saree Draping Accessories,Wed Nov 15 10:59:17 +0000 2023,"['saree', 'draping', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-15 10:59:17,accessories ,saree draping accessories 
+Fashion Week Swimwear,Thu Nov 16 13:02:13 +0000 2023,['swimwear'],[],['fashion'],[],['week'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 13:02:13,fashion ,swimwear 
+Fashion Blogger Merchandise,Thu Nov 16 13:02:13 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-11-16 13:02:13,fashion ,merchandise 
+swimwear accessories,Wed Nov 15 13:02:26 +0000 2023,"['swimwear', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-15 13:02:26,accessories ,swimwear accessories 
+fashion week memorabilia,Wed Nov 15 13:02:26 +0000 2023,['memorabilia'],[],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-11-15 13:02:26,fashion ,memorabilia 
+fashion magazines featuring Miami Swim Week,Wed Nov 15 13:02:26 +0000 2023,['swim'],['fashion'],[],['magazines'],['week'],[],[],['featuring'],[],['miami'],[],[],[],[],[],[],[],2023-11-15 13:02:26,fashion ,swim 
+Fashion photography package,Thu Nov 16 16:51:25 +0000 2023,['package'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 16:51:25,fashion ,package 
+Fashion show tickets,Thu Nov 16 16:51:25 +0000 2023,['tickets'],[],[],[],"['fashion', 'show']",[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 16:51:25,fashion ,tickets 
+fashion nail stickers,Thu Nov 16 18:35:23 +0000 2023,"['nail', 'stickers']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 18:35:23,fashion ,nail stickers 
+Artistic Fashion Accessories,Wed Nov 15 14:39:54 +0000 2023,['accessories'],"['artistic', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-15 14:39:54,fashion accessories ,accessories 
+high-fashion hats,Thu Nov 16 02:01:36 +0000 2023,['hats'],"['high', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 02:01:36,fashion ,hats 
+fashion editorial prints,Thu Nov 16 02:01:36 +0000 2023,['prints'],['fashion'],['editorial'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 02:01:36,fashion ,prints 
+fashion week merchandise,Fri Nov 17 02:01:33 +0000 2023,['merchandise'],[],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-11-17 02:01:33,fashion ,merchandise 
+fashion show tickets,Fri Nov 17 02:01:33 +0000 2023,['tickets'],[],[],[],"['fashion', 'show']",[],[],[],[],[],[],[],[],[],[],[],[],2023-11-17 02:01:33,fashion ,tickets 
+Bollywood Celebrity Fashion Collection,Thu Nov 16 12:23:45 +0000 2023,['collection'],['fashion'],['celebrity'],[],[],[],[],[],[],['bollywood'],[],[],[],[],[],[],[],2023-11-16 12:23:45,fashion ,collection 
+Trendy Accessories,Thu Nov 16 12:23:45 +0000 2023,['accessories'],['trendy'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 12:23:45,accessories ,accessories 
+fashion accessories,Thu Nov 16 23:00:00 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 23:00:00,fashion accessories ,accessories 
+virtual fashion clothing,Tue Nov 14 21:18:33 +0000 2023,['clothing'],"['virtual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-14 21:18:33,fashion ,clothing 
+Second Life avatar accessories,Tue Nov 14 21:18:33 +0000 2023,['accessories'],[],"['second', 'avatar']",[],[],[],[],['life'],[],[],[],[],[],[],[],[],[],2023-11-14 21:18:33,accessories ,accessories 
+Fashion Apparel,Thu Nov 16 22:00:03 +0000 2023,[],['fashion'],[],['apparel'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 22:00:03,fashion ,
+Fashion lighting equipment,Thu Nov 16 02:21:06 +0000 2023,"['lighting', 'equipment']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 02:21:06,fashion ,lighting equipment 
+Fashion photography books,Thu Nov 16 02:21:06 +0000 2023,['books'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 02:21:06,fashion ,books 
+Artistic lighting accessories,Thu Nov 16 02:21:06 +0000 2023,"['lighting', 'accessories']",['artistic'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-16 02:21:06,accessories ,lighting accessories 
+Fashion Illustration Sketchbook,Wed Nov 15 09:58:56 +0000 2023,['sketchbook'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-11-15 09:58:56,fashion ,sketchbook 
+fashion photography prints,Tue Nov 14 13:24:12 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-14 13:24:12,fashion ,prints 
+NYC fashion guidebooks,Tue Nov 14 13:24:12 +0000 2023,[],[],[],[],['fashion'],[],[],['guidebooks'],[],['nyc'],[],[],[],[],[],[],[],2023-11-14 13:24:12,fashion ,
+Fashion magazines featuring Deepika Padukone looks,Wed Nov 15 08:15:04 +0000 2023,['magazines'],['fashion'],"['featuring', 'deepika', 'padukone']",['looks'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-15 08:15:04,fashion ,magazines 
+ASOS Fashion Items,Wed Nov 08 15:12:57 +0000 2023,['items'],['fashion'],['asos'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-08 15:12:57,fashion ,items 
+fashion accessories,Sat Nov 11 07:15:31 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-11 07:15:31,fashion accessories ,accessories 
+fashion clothing,Fri Nov 10 16:39:03 +0000 2023,['clothing'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-10 16:39:03,fashion ,clothing 
+winter accessories,Fri Nov 10 16:39:03 +0000 2023,['accessories'],[],[],[],['winter'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-10 16:39:03,accessories ,accessories 
+elegant fashion accessories,Fri Nov 10 01:28:51 +0000 2023,['accessories'],"['elegant', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-10 01:28:51,fashion accessories ,accessories 
+boat accessories,Fri Nov 10 01:28:51 +0000 2023,"['boat', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-10 01:28:51,accessories ,boat accessories 
+vintage fashion clothing,Fri Nov 10 10:55:57 +0000 2023,['clothing'],['fashion'],[],[],[],[],[],[],[],[],[],[],['vintage'],[],[],[],[],2023-11-10 10:55:57,fashion ,clothing 
+fashion photoshoot accessories,Fri Nov 10 10:55:57 +0000 2023,['accessories'],['fashion'],[],[],['photoshoot'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-10 10:55:57,fashion accessories ,accessories 
+throwback fashion apparel,Fri Nov 10 10:55:57 +0000 2023,['apparel'],['fashion'],[],[],[],[],[],['throwback'],[],[],[],[],[],[],[],[],[],2023-11-10 10:55:57,fashion ,apparel 
+Fashion Jewelry Set,Sat Nov 11 07:14:23 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],['set'],[],[],[],2023-11-11 07:14:23,fashion ,jewelry 
+Sao Paulo Fashion Week merchandise,Fri Nov 10 21:01:50 +0000 2023,['merchandise'],[],[],[],"['fashion', 'week']",[],[],[],[],"['sao', 'paulo']",[],[],[],[],[],[],[],2023-11-10 21:01:50,fashion ,merchandise 
+fashion designer collections,Fri Nov 10 21:01:50 +0000 2023,[],['fashion'],"['designer', 'collections']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-10 21:01:50,fashion ,
+fashion photography books,Fri Nov 10 21:01:50 +0000 2023,['books'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-10 21:01:50,fashion ,books 
+fashion accessories,Fri Nov 10 21:01:50 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-10 21:01:50,fashion accessories ,accessories 
+fashion apparel,Fri Nov 10 23:00:00 +0000 2023,[],['fashion'],[],['apparel'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-10 23:00:00,fashion ,
+Saree Accessories,Tue Nov 07 04:28:46 +0000 2023,"['saree', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-07 04:28:46,accessories ,saree accessories 
+women's fashion sweatshirt,Sat Nov 11 09:31:37 +0000 2023,['sweatshirt'],['fashion'],[],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-11 09:31:37,fashion ,sweatshirt 
+fashion illustration prints,Wed Nov 08 22:37:07 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-11-08 22:37:07,fashion ,prints 
+Fashion Accessories for Women,Tue Jun 27 20:18:47 +0000 2023,['accessories'],['fashion'],[],['women'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-27 20:18:47,fashion accessories ,accessories 
+women's fashion tights,Thu Jun 08 23:46:31 +0000 2023,['tights'],['fashion'],[],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-08 23:46:31,fashion ,tights 
+fashion photography prints,Thu Jun 08 23:46:31 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-08 23:46:31,fashion ,prints 
+Fashion Bracelets,Sun Jun 25 22:14:15 +0000 2023,['bracelets'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-25 22:14:15,fashion ,bracelets 
+fashion trend bags,Wed Jun 07 07:12:11 +0000 2023,['bags'],"['fashion', 'trend']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-07 07:12:11,fashion ,bags 
+fashion sandals,Wed Jun 28 17:42:00 +0000 2023,['sandals'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-28 17:42:00,fashion ,sandals 
+fashion bags,Sat Jun 03 16:45:14 +0000 2023,['bags'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-03 16:45:14,fashion ,bags 
+fashion bags,Fri Jun 02 16:58:13 +0000 2023,['bags'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-02 16:58:13,fashion ,bags 
+fashion handbags,Sat Jun 03 19:20:48 +0000 2023,['handbags'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-03 19:20:48,fashion ,handbags 
+Women's Fashion Ensemble,Thu Jun 01 14:35:41 +0000 2023,['ensemble'],['fashion'],[],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-06-01 14:35:41,fashion ,ensemble 
+Summer Fashion Fits,Thu Apr 27 19:52:57 +0000 2023,[],['fashion'],[],[],[],[],[],['fits'],[],[],[],['summer'],[],[],[],[],[],2023-04-27 19:52:57,fashion ,
+fashion watch,Fri Apr 28 06:21:42 +0000 2023,['watch'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-28 06:21:42,fashion ,watch 
+statement accessories,Thu Apr 27 18:17:23 +0000 2023,['accessories'],['statement'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-27 18:17:23,accessories ,accessories 
+fashion accessories,Sat Apr 29 10:48:26 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-29 10:48:26,fashion accessories ,accessories 
+historical costume accessories,Thu Apr 27 21:09:39 +0000 2023,"['costume', 'accessories']",['historical'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-27 21:09:39,accessories ,costume accessories 
+Fashion Photography Print,Wed Apr 26 15:57:44 +0000 2023,[],"['fashion', 'print']",[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-26 15:57:44,fashion ,
+fashion magazines,Sat Apr 29 13:15:57 +0000 2023,['magazines'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-29 13:15:57,fashion ,magazines 
+fashion sunglasses,Thu Apr 27 20:03:03 +0000 2023,['sunglasses'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-27 20:03:03,fashion ,sunglasses 
+music-related fashion items,Sat Apr 29 23:24:28 +0000 2023,['items'],['related'],['music'],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-29 23:24:28,fashion ,items 
+Second Life fashion items,Wed Apr 26 17:02:46 +0000 2023,['items'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-26 17:02:46,fashion ,items 
+Second Life avatar accessories,Wed Apr 26 17:02:46 +0000 2023,['accessories'],[],"['second', 'avatar']",[],[],[],[],['life'],[],[],[],[],[],[],[],[],[],2023-04-26 17:02:46,accessories ,accessories 
+chic outfit accessories,Wed Apr 26 12:08:00 +0000 2023,"['outfit', 'accessories']",['chic'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-26 12:08:00,accessories ,outfit accessories 
+fashion blog merchandise,Wed Apr 26 12:08:00 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blog'],[],[],[],[],[],[],[],[],[],2023-04-26 12:08:00,fashion ,merchandise 
+Fashion Design Materials,Sat Apr 29 11:00:14 +0000 2023,[],['fashion'],[],[],[],[],[],['design'],[],[],[],[],[],[],[],[],[],2023-04-29 11:00:14,fashion ,
+Bridal Fashion Fabrics,Sat Apr 29 11:00:14 +0000 2023,[],['fashion'],[],[],['bridal'],[],['fabrics'],[],[],[],[],[],[],[],[],[],[],2023-04-29 11:00:14,fashion ,
+fashion accessories,Sat Apr 29 03:25:59 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-29 03:25:59,fashion accessories ,accessories 
+accessories for travel,Sat Apr 29 11:00:00 +0000 2023,['accessories'],[],[],[],['travel'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-29 11:00:00,accessories ,accessories 
+Fikafuntimes Women's Fashion Discount Items,Fri Apr 28 16:37:38 +0000 2023,['items'],"['fashion', 'discount']",['fikafuntimes'],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-28 16:37:38,fashion ,items 
+fashion blog subscription,Fri Apr 28 14:47:52 +0000 2023,[],[],[],[],['fashion'],[],[],['blog'],[],[],[],[],[],[],[],[],[],2023-04-28 14:47:52,fashion ,
+fashion photography book,Thu Apr 27 17:59:09 +0000 2023,['book'],['fashion'],[],[],[],[],[],['photography'],[],[],[],[],[],[],[],[],[],2023-04-27 17:59:09,fashion ,book 
+Urban Streetwear Accessories,Tue Apr 25 00:14:52 +0000 2023,['accessories'],[],"['urban', 'streetwear']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-25 00:14:52,accessories ,accessories 
+Fashion Photography Prints,Tue Apr 25 00:14:52 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-25 00:14:52,fashion ,prints 
+Latex Fashion Gloves,Tue Apr 25 00:14:52 +0000 2023,['gloves'],['fashion'],[],[],[],[],['latex'],[],[],[],[],[],[],[],[],[],[],2023-04-25 00:14:52,fashion ,gloves 
+Amazon Fashion Haul Items,Tue Apr 25 15:49:31 +0000 2023,['items'],['fashion'],['amazon'],[],[],[],[],['haul'],[],[],[],[],[],[],[],[],[],2023-04-25 15:49:31,fashion ,items 
+Accessories,Tue Apr 25 15:49:31 +0000 2023,['accessories'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-25 15:49:31,accessories ,accessories 
+GQ fashion apparel,Tue Apr 25 12:40:26 +0000 2023,['apparel'],['fashion'],['gq'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-25 12:40:26,fashion ,apparel 
+Men's fashion magazines,Mon Apr 24 13:04:00 +0000 2023,['magazines'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-24 13:04:00,fashion ,magazines 
+Photography accessories,Mon Apr 24 13:04:00 +0000 2023,['accessories'],[],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-24 13:04:00,accessories ,accessories 
+Uorfi Javed fashion accessories,Wed Apr 26 06:16:31 +0000 2023,['accessories'],['fashion'],['uorfi'],[],[],[],[],['javed'],[],[],[],[],[],[],[],[],[],2023-04-26 06:16:31,fashion accessories ,accessories 
+mythology-themed fashion accessories,Tue Apr 25 11:36:18 +0000 2023,['accessories'],['themed'],[],[],['fashion'],[],[],[],['mythology'],[],[],[],[],[],[],[],[],2023-04-25 11:36:18,fashion accessories ,accessories 
+women's fashion inspired by mythology,Tue Apr 25 11:36:18 +0000 2023,[],[],[],"['women', ""'"", 's']",[],[],[],"['fashion', 'inspired']","['by', 'mythology']",[],[],[],[],[],[],[],[],2023-04-25 11:36:18,fashion ,
+Spring fashion women's top,Wed Apr 26 04:47:59 +0000 2023,['top'],['fashion'],[],"['women', ""'"", 's']",[],[],[],[],[],[],[],['spring'],[],[],[],[],[],2023-04-26 04:47:59,fashion ,top 
+fashion accessories inspired by OC,Tue Apr 25 12:37:58 +0000 2023,['accessories'],"['fashion', 'inspired']",['oc'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-25 12:37:58,fashion accessories ,accessories 
+Fashion Handbag,Wed Apr 26 01:02:54 +0000 2023,['handbag'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-26 01:02:54,fashion ,handbag 
+Second Life accessories,Mon Apr 24 16:29:42 +0000 2023,['accessories'],[],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-24 16:29:42,accessories ,accessories 
+fashion photography prints,Tue Apr 25 02:48:33 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-25 02:48:33,fashion ,prints 
+Fashion Heels,Wed Apr 26 09:15:09 +0000 2023,['heels'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-26 09:15:09,fashion ,heels 
+Fashion accessories for lehenga,Wed Apr 26 06:17:57 +0000 2023,['accessories'],['fashion'],['lehenga'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-26 06:17:57,fashion accessories ,accessories 
+fashion statement bag,Tue Apr 25 12:47:47 +0000 2023,['bag'],['fashion'],[],[],[],[],[],['statement'],[],[],[],[],[],[],[],[],[],2023-04-25 12:47:47,fashion ,bag 
+fashion accessories,Sun Apr 23 02:22:52 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-23 02:22:52,fashion accessories ,accessories 
+fashion blogger merchandise,Tue Apr 25 19:30:20 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-04-25 19:30:20,fashion ,merchandise 
+photography equipment for fashion,Tue Apr 25 19:30:20 +0000 2023,"['photography', 'equipment']",[],[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-25 19:30:20,fashion ,photography equipment 
+Fashion podcast merchandise,Sun Apr 23 00:19:32 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['podcast'],[],[],[],[],[],[],[],[],[],2023-04-23 00:19:32,fashion ,merchandise 
+Fashion magazines,Sun Apr 23 00:19:32 +0000 2023,['magazines'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-23 00:19:32,fashion ,magazines 
+fashion sneakers,Sat Apr 22 15:32:13 +0000 2023,['sneakers'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-22 15:32:13,fashion ,sneakers 
+men's accessories,Sat Apr 22 15:32:13 +0000 2023,['accessories'],[],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-22 15:32:13,accessories ,accessories 
+Second Life Fashion Accessories,Sat Apr 22 21:32:05 +0000 2023,['accessories'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-22 21:32:05,fashion accessories ,accessories 
+Virtual Fashion Items,Sat Apr 22 21:32:05 +0000 2023,"['fashion', 'items']",['virtual'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-22 21:32:05,fashion ,fashion items 
+fashion accessories inspired by 70s style,Thu Apr 20 13:59:47 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],"['70s', 'style']",['inspired'],[],[],[],[],2023-04-20 13:59:47,fashion accessories ,accessories 
+fashion design books,Fri Apr 21 19:34:04 +0000 2023,['books'],['fashion'],[],[],['design'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-21 19:34:04,fashion ,books 
+fashion workshop tickets,Fri Apr 21 19:34:04 +0000 2023,['tickets'],['fashion'],['workshop'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-21 19:34:04,fashion ,tickets 
+Flower Hair Accessories,Sat Apr 22 04:53:52 +0000 2023,"['hair', 'accessories']",['flower'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-22 04:53:52,accessories ,hair accessories 
+Actress Life Fashion Book,Sat Apr 22 04:53:52 +0000 2023,['book'],['fashion'],['actress'],[],[],[],[],[],['life'],[],[],[],[],[],[],[],[],2023-04-22 04:53:52,fashion ,book 
+Fashion Photography Guidebook,Sat Apr 22 17:43:58 +0000 2023,['guidebook'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-22 17:43:58,fashion ,guidebook 
+Fikafuntimes Fashion Accessories,Sun Apr 23 00:03:47 +0000 2023,['accessories'],['fashion'],['fikafuntimes'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-23 00:03:47,fashion accessories ,accessories 
+Fashion Accessories for Graduates,Sun Apr 23 00:54:42 +0000 2023,['accessories'],['fashion'],[],['graduates'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-23 00:54:42,fashion accessories ,accessories 
+fashion show tickets,Sat Apr 22 12:18:37 +0000 2023,['tickets'],[],[],[],"['fashion', 'show']",[],[],[],[],[],[],[],[],[],[],[],[],2023-04-22 12:18:37,fashion ,tickets 
+fashion magazines,Sat Apr 22 12:18:37 +0000 2023,['magazines'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-22 12:18:37,fashion ,magazines 
+luxury accessories,Sat Apr 22 12:18:37 +0000 2023,['accessories'],['luxury'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-22 12:18:37,accessories ,accessories 
+chic accessories for men,Fri Apr 21 22:30:49 +0000 2023,['accessories'],['chic'],[],['men'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-21 22:30:49,accessories ,accessories 
+fashion-inspired armor costume,Fri Apr 21 20:31:19 +0000 2023,"['armor', 'costume']","['fashion', '-', 'inspired']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-21 20:31:19,fashion ,armor costume 
+Fashion Armor Accessories,Fri Apr 21 20:33:08 +0000 2023,['accessories'],['fashion'],['armor'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-21 20:33:08,fashion accessories ,accessories 
+Nigo designed accessories,Fri Apr 21 22:12:06 +0000 2023,['accessories'],['designed'],['nigo'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-21 22:12:06,accessories ,accessories 
+Fashion Nova Women's Clothing,Sat Apr 22 12:15:51 +0000 2023,['clothing'],[],"['fashion', 'nova']","['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-22 12:15:51,fashion ,clothing 
+fashion influencer apparel,Mon Apr 17 16:22:51 +0000 2023,['apparel'],['fashion'],[],[],[],[],[],['influencer'],[],[],[],[],[],[],[],[],[],2023-04-17 16:22:51,fashion ,apparel 
+fashion accessories,Mon Apr 17 20:47:01 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-17 20:47:01,fashion accessories ,accessories 
+Fashion Accessories,Tue Apr 18 13:45:40 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-18 13:45:40,fashion accessories ,accessories 
+celebrity fashion line,Tue Apr 18 15:00:00 +0000 2023,[],[],['celebrity'],[],[],[],[],"['fashion', 'line']",[],[],[],[],[],[],[],[],[],2023-04-18 15:00:00,fashion ,
+fashion accessories,Thu Apr 20 00:31:40 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-20 00:31:40,fashion accessories ,accessories 
+Second Life accessories,Wed Apr 19 16:49:19 +0000 2023,['accessories'],[],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-19 16:49:19,accessories ,accessories 
+virtual fashion items,Wed Apr 19 16:49:19 +0000 2023,"['fashion', 'items']",['virtual'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-19 16:49:19,fashion ,fashion items 
+Fashion Photography Backdrops,Wed Apr 19 07:16:26 +0000 2023,['backdrops'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-19 07:16:26,fashion ,backdrops 
+Fashion Accessories for Eid,Wed Apr 19 07:16:26 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],['eid'],[],[],[],[],[],[],[],[],[],2023-04-19 07:16:26,fashion accessories ,accessories 
+fashion scarves,Tue Apr 18 20:38:42 +0000 2023,['scarves'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-18 20:38:42,fashion ,scarves 
+colorful accessories,Wed Apr 19 02:30:00 +0000 2023,['accessories'],['colorful'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-19 02:30:00,accessories ,accessories 
+Fashion Accessories,Thu Apr 20 06:37:17 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-20 06:37:17,fashion accessories ,accessories 
+Fashion Photography Guidebook,Wed Apr 19 09:04:04 +0000 2023,['guidebook'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-19 09:04:04,fashion ,guidebook 
+Fashion Lookbook,Wed Apr 19 09:04:04 +0000 2023,['lookbook'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-19 09:04:04,fashion ,lookbook 
+Fashion Styling Toolkit,Wed Apr 19 09:04:04 +0000 2023,"['styling', 'toolkit']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-19 09:04:04,fashion ,styling toolkit 
+summer fashion collection,Tue Apr 18 14:02:25 +0000 2023,[],['fashion'],[],[],['summer'],[],[],['collection'],[],[],[],[],[],[],[],[],[],2023-04-18 14:02:25,fashion ,
+Nike Liverpool FC Fashion Collection,Wed Apr 19 18:39:37 +0000 2023,[],['fashion'],['nike'],[],[],[],[],"['liverpool', 'fc', 'collection']",[],[],[],[],[],[],[],[],[],2023-04-19 18:39:37,fashion ,
+AI-generated fashion illustrations,Mon Apr 17 06:01:15 +0000 2023,['illustrations'],['generated'],['ai'],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-17 06:01:15,fashion ,illustrations 
+editorial fashion magazines,Mon Apr 17 06:01:15 +0000 2023,['magazines'],['fashion'],['editorial'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-17 06:01:15,fashion ,magazines 
+high-fashion photography prints,Mon Apr 17 06:01:15 +0000 2023,['prints'],"['high', 'fashion']",[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-17 06:01:15,fashion ,prints 
+Fashion Jewelry Bracelets,Sat Apr 15 20:47:07 +0000 2023,"['jewelry', 'bracelets']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-15 20:47:07,fashion ,jewelry bracelets 
+Mongolian-inspired fashion apparel,Fri Apr 14 12:11:42 +0000 2023,['apparel'],"['inspired', 'fashion']",[],[],[],[],[],[],[],"['mongolian', '-']",[],[],[],[],[],[],[],2023-04-14 12:11:42,fashion ,apparel 
+fashion photography prints,Sun Apr 16 13:47:06 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-16 13:47:06,fashion ,prints 
+Fashion Dress Shirt,Mon Apr 17 10:16:10 +0000 2023,"['dress', 'shirt']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-17 10:16:10,fashion ,dress shirt 
+Bling Desk Organization Accessories,Sun Apr 16 02:49:13 +0000 2023,"['desk', 'organization', 'accessories']",['bling'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-16 02:49:13,accessories ,desk organization accessories 
+Virtual Fashion Outfits,Fri Apr 14 14:48:58 +0000 2023,['outfits'],"['virtual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-14 14:48:58,fashion ,outfits 
+Second Life Accessories,Fri Apr 14 14:48:58 +0000 2023,['accessories'],[],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-14 14:48:58,accessories ,accessories 
+Fashion Jewelry for Avatars,Fri Apr 14 14:48:58 +0000 2023,['jewelry'],['fashion'],['avatars'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-14 14:48:58,fashion ,jewelry 
+Discounted Fashion Items,Sun Apr 16 22:05:04 +0000 2023,['items'],"['discounted', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-16 22:05:04,fashion ,items 
+Tiger-Inspired Fashion Accessories,Fri Apr 14 12:24:21 +0000 2023,['accessories'],"['inspired', 'fashion']",['tiger'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-14 12:24:21,fashion accessories ,accessories 
+Casual Fashion Accessories,Mon Apr 17 09:30:38 +0000 2023,['accessories'],"['casual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-17 09:30:38,fashion accessories ,accessories 
+fashion scarves,Mon Apr 17 05:26:51 +0000 2023,['scarves'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-17 05:26:51,fashion ,scarves 
+Flower-themed accessories,Fri Apr 14 15:11:27 +0000 2023,['accessories'],"['flower', '-', 'themed']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-14 15:11:27,accessories ,accessories 
+Fashion items from NFT Artists,Fri Apr 14 15:11:27 +0000 2023,"['fashion', 'items']",[],['nft'],[],[],[],[],[],[],['artists'],[],[],[],[],[],[],[],2023-04-14 15:11:27,fashion ,fashion items 
+Midjourney AI Fashion Prints,Sun Apr 16 12:24:48 +0000 2023,['prints'],['fashion'],"['midjourney', 'ai']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-16 12:24:48,fashion ,prints 
+Fashion Illustration Books,Sun Apr 16 12:24:48 +0000 2023,['books'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-16 12:24:48,fashion ,books 
+High-fashion Digital Art Posters,Sun Apr 16 12:24:48 +0000 2023,"['art', 'posters']","['high', 'fashion', 'digital']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-16 12:24:48,fashion ,art posters 
+AI-generated fashion prints,Sun Apr 16 13:35:52 +0000 2023,['prints'],"['generated', 'fashion']",['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-16 13:35:52,fashion ,prints 
+gold-themed fashion accessories,Sun Apr 16 13:35:52 +0000 2023,['accessories'],"['themed', 'fashion']",[],[],[],['gold'],[],[],[],[],[],[],[],[],[],[],[],2023-04-16 13:35:52,fashion accessories ,accessories 
+high-fashion photography books,Sun Apr 16 13:35:52 +0000 2023,['books'],"['high', 'fashion']",[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-04-16 13:35:52,fashion ,books 
+fashion illustration prints,Sun Apr 16 13:35:52 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-04-16 13:35:52,fashion ,prints 
+fashion tops,Fri Oct 20 13:39:35 +0000 2023,['tops'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-20 13:39:35,fashion ,tops 
+fashion handbags,Fri Oct 20 13:39:35 +0000 2023,['handbags'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-20 13:39:35,fashion ,handbags 
+Pipatchara Accessories,Mon Oct 16 04:07:01 +0000 2023,['accessories'],[],['pipatchara'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-16 04:07:01,accessories ,accessories 
+Sustainable Fashion Collection,Mon Oct 16 04:07:01 +0000 2023,['collection'],"['sustainable', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-16 04:07:01,fashion ,collection 
+Fashion Week Merchandise,Mon Oct 16 04:07:01 +0000 2023,['merchandise'],[],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-10-16 04:07:01,fashion ,merchandise 
+fashion accessories,Tue Oct 03 14:01:49 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-03 14:01:49,fashion accessories ,accessories 
+fashion jewelry,Wed Oct 25 20:59:39 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-25 20:59:39,fashion ,jewelry 
+stylish women's accessories,Wed Oct 25 20:59:39 +0000 2023,['accessories'],['stylish'],[],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-25 20:59:39,accessories ,accessories 
+Fashion Accessories for Professionals,Sun Oct 01 04:30:00 +0000 2023,['accessories'],['fashion'],[],['professionals'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-01 04:30:00,fashion accessories ,accessories 
+Halloween costume accessories,Sat Oct 28 16:37:23 +0000 2023,"['costume', 'accessories']",[],[],[],['halloween'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-28 16:37:23,accessories ,costume accessories 
+modest fashion pants,Thu Oct 19 18:17:34 +0000 2023,['pants'],"['modest', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-19 18:17:34,fashion ,pants 
+fashion cap,Tue May 30 10:09:55 +0000 2023,['cap'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-30 10:09:55,fashion ,cap 
+wedding accessories,Tue May 30 15:15:07 +0000 2023,['accessories'],[],[],[],['wedding'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-30 15:15:07,accessories ,accessories 
+Fashion Dresses,Mon May 29 18:53:25 +0000 2023,['dresses'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-29 18:53:25,fashion ,dresses 
+Las Vegas themed accessories,Tue May 30 08:10:41 +0000 2023,['accessories'],['themed'],[],[],[],[],[],[],[],"['las', 'vegas']",[],[],[],[],[],[],[],2023-05-30 08:10:41,accessories ,accessories 
+fashion jewelry,Tue May 30 08:10:41 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-30 08:10:41,fashion ,jewelry 
+Fashion Swimwear,Tue May 30 17:20:38 +0000 2023,['swimwear'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-30 17:20:38,fashion ,swimwear 
+Fashion Accessories,Tue May 30 17:20:38 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-30 17:20:38,fashion accessories ,accessories 
+fashion dresses,Tue May 30 00:28:24 +0000 2023,['dresses'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-30 00:28:24,fashion ,dresses 
+beauty accessories,Tue May 30 00:28:24 +0000 2023,"['beauty', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-30 00:28:24,accessories ,beauty accessories 
+second life fashion items,Tue May 30 16:44:00 +0000 2023,['items'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-30 16:44:00,fashion ,items 
+fashion style NFTs,Tue May 30 18:28:56 +0000 2023,['nfts'],"['fashion', 'style']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-30 18:28:56,fashion ,nfts 
+Men's Fashion Footwear,Tue May 30 21:06:19 +0000 2023,['footwear'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-30 21:06:19,fashion ,footwear 
+travel accessories,Tue May 30 10:34:18 +0000 2023,['accessories'],[],[],[],['travel'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-30 10:34:18,accessories ,accessories 
+Cyborg Fashion NFT Collection,Mon May 29 16:33:04 +0000 2023,['collection'],['fashion'],['cyborg'],[],[],[],[],['nft'],[],[],[],[],[],[],[],[],[],2023-05-29 16:33:04,fashion ,collection 
+Bohemian Style Accessories,Mon May 29 18:58:55 +0000 2023,['accessories'],"['bohemian', 'style']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-29 18:58:55,accessories ,accessories 
+fashion sneakers,Mon May 29 17:10:38 +0000 2023,['sneakers'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-29 17:10:38,fashion ,sneakers 
+urban fashion accessories,Mon May 29 17:10:38 +0000 2023,['accessories'],['fashion'],['urban'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-29 17:10:38,fashion accessories ,accessories 
+Japanese Fashion Apparel,Sun May 28 09:12:11 +0000 2023,['apparel'],['fashion'],[],[],[],[],[],[],[],['japanese'],[],[],[],[],[],[],[],2023-05-28 09:12:11,fashion ,apparel 
+Experimental Fashion Outfits,Mon May 29 12:27:18 +0000 2023,['outfits'],"['experimental', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-29 12:27:18,fashion ,outfits 
+Virtual Fashion Accessories,Mon May 29 12:27:18 +0000 2023,['accessories'],"['virtual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-29 12:27:18,fashion accessories ,accessories 
+Korean Fashion Streetwear,Wed May 17 08:28:52 +0000 2023,['streetwear'],['fashion'],[],[],[],[],[],[],[],['korean'],[],[],[],[],[],[],[],2023-05-17 08:28:52,fashion ,streetwear 
+Ulzzang Fashion Outfits,Wed May 17 08:28:52 +0000 2023,['outfits'],['fashion'],['ulzzang'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-17 08:28:52,fashion ,outfits 
+Korean Style Accessories,Wed May 17 08:28:52 +0000 2023,['accessories'],['style'],[],[],[],[],[],[],[],['korean'],[],[],[],[],[],[],[],2023-05-17 08:28:52,accessories ,accessories 
+celebrity-inspired fashion collections,Sun May 14 14:30:00 +0000 2023,['fashion'],"['celebrity', 'inspired']",[],[],[],[],[],['collections'],[],[],[],[],[],[],[],[],[],2023-05-14 14:30:00,fashion ,fashion 
+trendy accessories,Mon May 15 16:11:17 +0000 2023,['accessories'],['trendy'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-15 16:11:17,accessories ,accessories 
+Second Life Fashion Outfit,Wed May 17 15:21:53 +0000 2023,['outfit'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-17 15:21:53,fashion ,outfit 
+Second Life Accessories,Wed May 17 15:21:53 +0000 2023,['accessories'],[],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-17 15:21:53,accessories ,accessories 
+runway accessories,Mon May 15 02:19:55 +0000 2023,['accessories'],[],[],[],['runway'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-15 02:19:55,accessories ,accessories 
+fashion magazines,Mon May 15 02:19:55 +0000 2023,['magazines'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-15 02:19:55,fashion ,magazines 
+fashion designer sketches,Mon May 15 02:19:55 +0000 2023,[],['fashion'],[],['designer'],[],[],[],['sketches'],[],[],[],[],[],[],[],[],[],2023-05-15 02:19:55,fashion ,
+Spring Lewk Fashion Collection,Tue May 16 14:30:00 +0000 2023,[],['fashion'],['lewk'],[],[],[],[],['collection'],[],[],[],['spring'],[],[],[],[],[],2023-05-16 14:30:00,fashion ,
+fashion jewelry,Mon May 15 22:01:13 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-15 22:01:13,fashion ,jewelry 
+Fashion accessories,Wed May 17 16:24:41 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-17 16:24:41,fashion accessories ,accessories 
+Fashion Gift Cards,Tue May 16 02:16:06 +0000 2023,"['gift', 'cards']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-16 02:16:06,fashion ,gift cards 
+Discounted Fashion Items,Tue May 16 02:16:06 +0000 2023,['items'],"['discounted', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-16 02:16:06,fashion ,items 
+Aesthetic accessories,Wed May 17 15:04:43 +0000 2023,['accessories'],['aesthetic'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-17 15:04:43,accessories ,accessories 
+Bridal accessories,Tue May 16 13:02:45 +0000 2023,['accessories'],[],[],[],['bridal'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-16 13:02:45,accessories ,accessories 
+urban fashion accessories,Tue May 16 13:14:24 +0000 2023,['accessories'],['fashion'],['urban'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-16 13:14:24,fashion accessories ,accessories 
+3D fashion model,Wed May 17 16:31:34 +0000 2023,['model'],['fashion'],[],[],[],[],[],[],[],[],['3d'],[],[],[],[],[],[],2023-05-17 16:31:34,fashion ,model 
+NFT-licensed fashion items,Wed May 17 16:31:34 +0000 2023,"['fashion', 'items']",['licensed'],['nft'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-17 16:31:34,fashion ,fashion items 
+3D printed suit accessories,Wed May 17 16:31:34 +0000 2023,"['suit', 'accessories']","['3d', 'printed']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-17 16:31:34,accessories ,suit accessories 
+Virtual reality fashion experiences,Wed May 17 16:31:34 +0000 2023,[],[],[],[],['fashion'],[],[],"['virtual', 'reality', 'experiences']",[],[],[],[],[],[],[],[],[],2023-05-17 16:31:34,fashion ,
+Fashion Designer Fabrics,Tue May 16 14:13:10 +0000 2023,['fabrics'],['fashion'],[],[],[],[],[],['designer'],[],[],[],[],[],[],[],[],[],2023-05-16 14:13:10,fashion ,fabrics 
+fashion fabric materials,Wed May 17 10:33:10 +0000 2023,[],['fashion'],[],['materials'],[],[],['fabric'],[],[],[],[],[],[],[],[],[],[],2023-05-17 10:33:10,fashion ,
+Fashion Stole,Wed May 17 10:46:39 +0000 2023,['stole'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-17 10:46:39,fashion ,stole 
+Fashion Jewelry for Her,Wed May 17 12:37:00 +0000 2023,['jewelry'],['fashion'],[],['her'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-17 12:37:00,fashion ,jewelry 
+Fashion Lookbook,Wed May 17 16:48:33 +0000 2023,['lookbook'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-17 16:48:33,fashion ,lookbook 
+Fashion Style Clothing,Sat May 13 00:26:58 +0000 2023,['clothing'],"['fashion', 'style']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 00:26:58,fashion ,clothing 
+Fashion Jewelry,Sat May 13 00:26:58 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 00:26:58,fashion ,jewelry 
+Hair Accessories,Sat May 13 00:26:58 +0000 2023,"['hair', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 00:26:58,accessories ,hair accessories 
+fashion accessories,Sat May 13 00:29:36 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 00:29:36,fashion accessories ,accessories 
+fashion sketch pad,Sat May 13 03:00:38 +0000 2023,"['sketch', 'pad']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 03:00:38,fashion ,sketch pad 
+Paris Fashion Week merchandise,Sat May 13 03:00:38 +0000 2023,['merchandise'],[],[],[],"['fashion', 'week']",[],[],[],[],['paris'],[],[],[],[],[],[],[],2023-05-13 03:00:38,fashion ,merchandise 
+fashion design software,Sat May 13 03:00:38 +0000 2023,['fashion'],[],[],[],[],[],[],"['design', 'software']",[],[],[],[],[],[],[],[],[],2023-05-13 03:00:38,fashion ,fashion 
+fashion accessories,Sat May 13 21:56:37 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 21:56:37,fashion accessories ,accessories 
+fashionable accessories,Sat May 13 14:11:08 +0000 2023,['accessories'],['fashionable'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 14:11:08,accessories ,accessories 
+virtual fashion accessories,Sat May 13 08:58:10 +0000 2023,['accessories'],"['virtual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 08:58:10,fashion accessories ,accessories 
+fashion scarves,Sat May 13 14:37:23 +0000 2023,['scarves'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 14:37:23,fashion ,scarves 
+fashion accessories for girls,Sun May 14 00:12:59 +0000 2023,['accessories'],['fashion'],[],['girls'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-14 00:12:59,fashion accessories ,accessories 
+fashion eyewear,Sat May 13 14:45:13 +0000 2023,['eyewear'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 14:45:13,fashion ,eyewear 
+fashion magazines,Sat May 13 08:50:19 +0000 2023,['magazines'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 08:50:19,fashion ,magazines 
+event tickets for fashion shows,Sat May 13 08:50:19 +0000 2023,['tickets'],[],[],[],"['event', 'fashion', 'shows']",[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 08:50:19,fashion ,tickets 
+fashion design software,Sat May 13 08:50:19 +0000 2023,['fashion'],[],[],[],[],[],[],"['design', 'software']",[],[],[],[],[],[],[],[],[],2023-05-13 08:50:19,fashion ,fashion 
+brand merchandise for fashion schools,Sat May 13 08:50:19 +0000 2023,['merchandise'],['brand'],[],['schools'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 08:50:19,fashion ,merchandise 
+Canva Fashion Template,Sat May 13 05:08:17 +0000 2023,[],['fashion'],['canva'],[],[],[],[],['template'],[],[],[],[],[],[],[],[],[],2023-05-13 05:08:17,fashion ,
+Fashion Style Planner Template,Sun May 14 11:07:14 +0000 2023,"['planner', 'template']",['fashion'],[],[],[],[],[],['style'],[],[],[],[],[],[],[],[],[],2023-05-14 11:07:14,fashion ,planner template 
+fashion dress,Sat May 13 22:50:12 +0000 2023,['dress'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 22:50:12,fashion ,dress 
+fashion accessories,Sat May 13 22:50:12 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 22:50:12,fashion accessories ,accessories 
+Rave Accessories,Sat May 13 16:04:06 +0000 2023,['accessories'],['rave'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 16:04:06,accessories ,accessories 
+Alternative Fashion Jewelry,Sat May 13 16:04:06 +0000 2023,['jewelry'],"['alternative', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 16:04:06,fashion ,jewelry 
+Fashion Illustration Book,Fri May 12 04:55:29 +0000 2023,['book'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-12 04:55:29,fashion ,book 
+Sassily Fashion Accessories,Sat May 13 17:42:35 +0000 2023,['accessories'],['fashion'],['sassily'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-13 17:42:35,fashion accessories ,accessories 
+Fashion Snapback Cap,Thu May 11 11:44:59 +0000 2023,['cap'],['fashion'],[],[],[],[],[],['snapback'],[],[],[],[],[],[],[],[],[],2023-05-11 11:44:59,fashion ,cap 
+fashion accessories,Tue May 09 16:37:15 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-09 16:37:15,fashion accessories ,accessories 
+Fashion Photography Packages,Thu May 11 07:28:43 +0000 2023,['packages'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-11 07:28:43,fashion ,packages 
+Summer Fashion Accessories,Sun May 07 12:30:00 +0000 2023,['accessories'],['fashion'],[],[],['summer'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-07 12:30:00,fashion accessories ,accessories 
+Discounted Fashion Items,Thu May 11 01:29:38 +0000 2023,['items'],"['discounted', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-11 01:29:38,fashion ,items 
+anime fashion clothing,Tue May 09 10:06:14 +0000 2023,['clothing'],['fashion'],[],[],[],[],[],[],['anime'],[],[],[],[],[],[],[],[],2023-05-09 10:06:14,fashion ,clothing 
+fashion hats,Thu May 11 11:00:00 +0000 2023,['hats'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-11 11:00:00,fashion ,hats 
+Fashion Accessories,Sun May 07 02:58:44 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-07 02:58:44,fashion accessories ,accessories 
+Kimono-Inspired Fashion Accessories,Wed May 10 03:12:58 +0000 2023,['accessories'],['inspired'],['kimono'],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-10 03:12:58,fashion accessories ,accessories 
+Trendy Accessories for Work,Fri May 05 14:01:57 +0000 2023,['accessories'],['trendy'],[],[],['work'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-05 14:01:57,accessories ,accessories 
+fashion design online course,Thu May 04 19:42:10 +0000 2023,['course'],[],[],[],"['fashion', 'design', 'online']",[],[],[],[],[],[],[],[],[],[],[],[],2023-05-04 19:42:10,fashion ,course 
+summer fashion collection,Thu May 04 19:42:10 +0000 2023,[],['fashion'],[],[],['summer'],[],[],['collection'],[],[],[],[],[],[],[],[],[],2023-05-04 19:42:10,fashion ,
+fashion sketchbook,Thu May 04 19:42:10 +0000 2023,['sketchbook'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-04 19:42:10,fashion ,sketchbook 
+design software for fashion,Thu May 04 19:42:10 +0000 2023,"['design', 'software']",[],[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-04 19:42:10,fashion ,design software 
+fashion design books,Thu May 04 19:42:10 +0000 2023,['books'],['fashion'],[],[],['design'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-04 19:42:10,fashion ,books 
+korean style fashion outfits,Sun May 07 01:59:24 +0000 2023,['outfits'],"['style', 'fashion']",[],[],[],[],[],[],[],['korean'],[],[],[],[],[],[],[],2023-05-07 01:59:24,fashion ,outfits 
+fashion avatar clothes,Sat May 06 15:35:05 +0000 2023,['clothes'],['fashion'],['avatar'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-06 15:35:05,fashion ,clothes 
+second life avatar accessories,Sat May 06 15:35:05 +0000 2023,['accessories'],[],"['second', 'avatar']",[],[],[],[],['life'],[],[],[],[],[],[],[],[],[],2023-05-06 15:35:05,accessories ,accessories 
+sl fashion poses,Sat May 06 15:35:05 +0000 2023,[],['fashion'],['sl'],[],[],[],[],['poses'],[],[],[],[],[],[],[],[],[],2023-05-06 15:35:05,fashion ,
+luxury fashion accessories,Sat May 06 12:54:01 +0000 2023,['accessories'],"['luxury', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-06 12:54:01,fashion accessories ,accessories 
+Casual Fashion T-shirt,Wed May 03 06:57:18 +0000 2023,"['t', 'shirt']","['casual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-03 06:57:18,fashion ,t shirt 
+Women’s Fashion Apparel,Sat May 06 01:41:03 +0000 2023,['apparel'],['fashion'],[],"['women', '’', 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-06 01:41:03,fashion ,apparel 
+photography accessories,Fri May 05 12:48:15 +0000 2023,['accessories'],[],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-05 12:48:15,accessories ,accessories 
+Fashion AI Design Software,Fri May 05 20:28:19 +0000 2023,['design'],['fashion'],[],[],[],[],[],"['ai', 'software']",[],[],[],[],[],[],[],[],[],2023-05-05 20:28:19,fashion ,design 
+Men's Fashion Accessories,Fri May 05 20:28:19 +0000 2023,['accessories'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-05 20:28:19,fashion accessories ,accessories 
+AI-generated fashion art prints,Fri May 05 20:28:39 +0000 2023,"['art', 'prints']","['generated', 'fashion']",['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-05 20:28:39,fashion ,art prints 
+Fashion Sandals,Fri May 05 14:16:09 +0000 2023,['sandals'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-05 14:16:09,fashion ,sandals 
+AI-Designed Fashion Apparel,Fri May 05 20:27:28 +0000 2023,['apparel'],"['designed', 'fashion']",['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-05 20:27:28,fashion ,apparel 
+fashion accessories,Fri May 05 12:06:41 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-05 12:06:41,fashion accessories ,accessories 
+Fashion Forward Headwear,Fri May 05 06:46:25 +0000 2023,['headwear'],['fashion'],[],[],[],[],[],['forward'],[],[],[],[],[],[],[],[],[],2023-05-05 06:46:25,fashion ,headwear 
+Ladies Day Outfit Accessories,Fri May 05 06:46:25 +0000 2023,"['outfit', 'accessories']",[],[],['ladies'],['day'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-05 06:46:25,accessories ,outfit accessories 
+Fashion Beanie,Thu May 04 21:54:11 +0000 2023,['beanie'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-04 21:54:11,fashion ,beanie 
+women's fashion clothing,Wed Dec 06 02:56:46 +0000 2023,['clothing'],['fashion'],[],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-12-06 02:56:46,fashion ,clothing 
+summer lifestyle accessories,Wed Dec 06 02:56:46 +0000 2023,"['lifestyle', 'accessories']",[],[],[],['summer'],[],[],[],[],[],[],[],[],[],[],[],[],2023-12-06 02:56:46,accessories ,lifestyle accessories 
+fashion influencer apparel,Sun Dec 10 14:11:50 +0000 2023,['apparel'],['fashion'],[],[],[],[],[],['influencer'],[],[],[],[],[],[],[],[],[],2023-12-10 14:11:50,fashion ,apparel 
+Alternative Fashion Items,Sat Dec 23 23:11:08 +0000 2023,['items'],['alternative'],[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-12-23 23:11:08,fashion ,items 
+winter photography accessories,Mon Dec 25 08:41:05 +0000 2023,['accessories'],[],[],[],"['winter', 'photography']",[],[],[],[],[],[],[],[],[],[],[],[],2023-12-25 08:41:05,accessories ,accessories 
+fashion accessories,Sat Dec 30 12:20:59 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-12-30 12:20:59,fashion accessories ,accessories 
+UOMA winter accessories,Thu Dec 21 11:55:05 +0000 2023,['accessories'],[],['uoma'],[],['winter'],[],[],[],[],[],[],[],[],[],[],[],[],2023-12-21 11:55:05,accessories ,accessories 
+party accessories for women,Thu Dec 28 21:25:30 +0000 2023,['accessories'],[],[],['women'],['party'],[],[],[],[],[],[],[],[],[],[],[],[],2023-12-28 21:25:30,accessories ,accessories 
+fashion handbag,Sat Dec 02 11:40:21 +0000 2023,['handbag'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-12-02 11:40:21,fashion ,handbag 
+fashion photography prints,Fri Sep 01 18:00:00 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-01 18:00:00,fashion ,prints 
+women's fashion accessories,Fri Sep 01 18:00:00 +0000 2023,['accessories'],['fashion'],[],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-01 18:00:00,fashion accessories ,accessories 
+fashion photographer services,Fri Sep 01 15:00:02 +0000 2023,[],['fashion'],"['photographer', 'services']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-01 15:00:02,fashion ,
+elegant women's fashion,Fri Sep 29 21:58:22 +0000 2023,[],"['elegant', 'fashion']",[],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-29 21:58:22,fashion ,
+fashion sunglasses,Fri Sep 29 13:24:22 +0000 2023,['sunglasses'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-29 13:24:22,fashion ,sunglasses 
+photography accessories,Fri Sep 29 13:24:22 +0000 2023,['accessories'],[],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-29 13:24:22,accessories ,accessories 
+fashion jewelry,Fri Sep 29 13:24:22 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-29 13:24:22,fashion ,jewelry 
+Second Life Fashion Accessories,Wed Sep 27 16:58:01 +0000 2023,['accessories'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-27 16:58:01,fashion accessories ,accessories 
+Instagram-worthy travel accessories,Wed Sep 27 15:18:49 +0000 2023,['accessories'],"['-', 'worthy']",['instagram'],[],['travel'],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-27 15:18:49,accessories ,accessories 
+fashion hoodies,Thu Sep 28 03:10:10 +0000 2023,['hoodies'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-28 03:10:10,fashion ,hoodies 
+fashion accessories,Thu Sep 28 10:33:24 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-28 10:33:24,fashion accessories ,accessories 
+fashion statement shoes,Fri Sep 29 08:00:56 +0000 2023,['shoes'],['fashion'],[],[],[],[],[],['statement'],[],[],[],[],[],[],[],[],[],2023-09-29 08:00:56,fashion ,shoes 
+eco-friendly fashion line,Fri Sep 29 08:00:56 +0000 2023,"['fashion', 'line']","['eco', '-', 'friendly']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-29 08:00:56,fashion ,fashion line 
+fashion subscription box,Fri Sep 29 08:00:56 +0000 2023,['box'],['fashion'],[],[],[],[],[],['subscription'],[],[],[],[],[],[],[],[],[],2023-09-29 08:00:56,fashion ,box 
+vintage fashion pieces,Fri Sep 29 08:00:56 +0000 2023,['pieces'],['fashion'],[],[],[],[],[],[],[],[],[],[],['vintage'],[],[],[],[],2023-09-29 08:00:56,fashion ,pieces 
+Lim YoonA Inspired Fashion,Thu Sep 28 17:04:40 +0000 2023,['fashion'],['inspired'],"['lim', 'yoona']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-28 17:04:40,fashion ,fashion 
+fashion style accessories,Fri Sep 29 10:17:00 +0000 2023,['accessories'],"['fashion', 'style']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-29 10:17:00,fashion accessories ,accessories 
+Lim YoonA Inspired Fashion,Thu Sep 28 17:06:27 +0000 2023,['fashion'],['inspired'],"['lim', 'yoona']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-28 17:06:27,fashion ,fashion 
+AI-generated fashion prints,Mon Sep 25 19:29:59 +0000 2023,['prints'],"['generated', 'fashion']",['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-25 19:29:59,fashion ,prints 
+artistic fashion accessories,Mon Sep 25 19:29:59 +0000 2023,['accessories'],"['artistic', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-25 19:29:59,fashion accessories ,accessories 
+fashion statement hoodie,Thu Sep 28 17:33:10 +0000 2023,['hoodie'],['fashion'],[],[],[],[],[],['statement'],[],[],[],[],[],[],[],[],[],2023-09-28 17:33:10,fashion ,hoodie 
+fashion jewelry,Wed Sep 27 18:39:54 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-27 18:39:54,fashion ,jewelry 
+fashion-forward suits,Wed Sep 27 18:13:06 +0000 2023,['suits'],['fashion'],[],[],[],[],[],['forward'],[],[],[],[],[],[],[],[],[],2023-09-27 18:13:06,fashion ,suits 
+street style accessories,Wed Sep 27 18:13:06 +0000 2023,['accessories'],"['street', 'style']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-27 18:13:06,accessories ,accessories 
+custom fashion illustrations,Wed Sep 27 09:19:16 +0000 2023,['illustrations'],"['custom', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-27 09:19:16,fashion ,illustrations 
+fashion design teaching sessions,Wed Sep 27 09:19:16 +0000 2023,[],['fashion'],[],[],"['design', 'teaching']",[],[],['sessions'],[],[],[],[],[],[],[],[],[],2023-09-27 09:19:16,fashion ,
+Fashion Illustration Prints,Thu Sep 28 11:35:54 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-09-28 11:35:54,fashion ,prints 
+sustainable fashion accessories,Fri Sep 22 07:06:42 +0000 2023,['accessories'],['sustainable'],[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-22 07:06:42,fashion accessories ,accessories 
+designer fashion dress,Mon Sep 25 18:31:55 +0000 2023,['dress'],"['designer', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-25 18:31:55,fashion ,dress 
+travel accessories,Mon Sep 25 18:31:55 +0000 2023,['accessories'],[],[],[],['travel'],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-25 18:31:55,accessories ,accessories 
+Second Life accessories,Sun Sep 24 15:26:18 +0000 2023,['accessories'],[],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-24 15:26:18,accessories ,accessories 
+Second Life fashion items,Sun Sep 24 15:26:18 +0000 2023,['items'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-24 15:26:18,fashion ,items 
+digital fashion photography tools,Sun Sep 24 15:26:18 +0000 2023,"['photography', 'tools']","['digital', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-24 15:26:18,fashion ,photography tools 
+fashion design textbooks,Sun Sep 24 14:02:40 +0000 2023,['textbooks'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-24 14:02:40,fashion ,textbooks 
+fashion illustration supplies,Sun Sep 24 14:02:40 +0000 2023,['supplies'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-09-24 14:02:40,fashion ,supplies 
+fashion design software,Sun Sep 24 14:02:40 +0000 2023,['fashion'],[],[],[],[],[],[],"['design', 'software']",[],[],[],[],[],[],[],[],[],2023-09-24 14:02:40,fashion ,fashion 
+fashion school merchandise,Sun Sep 24 14:02:40 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['school'],[],[],[],[],[],[],[],[],[],2023-09-24 14:02:40,fashion ,merchandise 
+fashion magazines,Sun Sep 24 18:56:09 +0000 2023,['magazines'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-24 18:56:09,fashion ,magazines 
+fashion photography prints,Sun Sep 24 03:40:17 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-24 03:40:17,fashion ,prints 
+fashion editorial magazines,Sun Sep 24 03:41:16 +0000 2023,['magazines'],['fashion'],[],[],[],[],[],['editorial'],[],[],[],[],[],[],[],[],[],2023-09-24 03:41:16,fashion ,magazines 
+second life fashion items,Mon Sep 25 14:51:49 +0000 2023,['items'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-25 14:51:49,fashion ,items 
+motorcycle accessories,Mon Sep 25 14:51:49 +0000 2023,"['motorcycle', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-25 14:51:49,accessories ,motorcycle accessories 
+fashion bags,Mon Sep 25 11:29:54 +0000 2023,['bags'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-25 11:29:54,fashion ,bags 
+fall fashion outfits,Mon Sep 25 18:02:00 +0000 2023,['outfits'],['fashion'],[],[],[],[],[],[],[],[],[],['fall'],[],[],[],[],[],2023-09-25 18:02:00,fashion ,outfits 
+Cardi B Fashion Items,Mon Sep 25 00:06:22 +0000 2023,['items'],['fashion'],"['cardi', 'b']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-25 00:06:22,fashion ,items 
+Runway Fashion Accessories,Sun Sep 24 12:01:34 +0000 2023,['accessories'],['fashion'],[],[],['runway'],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-24 12:01:34,fashion accessories ,accessories 
+Fashion Week Collection Items,Sun Sep 24 12:01:34 +0000 2023,['items'],[],['fashion'],[],['week'],[],[],['collection'],[],[],[],[],[],[],[],[],[],2023-09-24 12:01:34,fashion ,items 
+Fashion Brand Merchandise,Sat Sep 23 17:12:31 +0000 2023,['merchandise'],['fashion'],['brand'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-23 17:12:31,fashion ,merchandise 
+fashion accessories,Sun Sep 24 04:40:53 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-24 04:40:53,fashion accessories ,accessories 
+high-fashion accessories,Mon Sep 25 16:01:53 +0000 2023,['accessories'],"['high', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-25 16:01:53,fashion accessories ,accessories 
+exclusive fashion week merchandise,Mon Sep 25 16:01:53 +0000 2023,['merchandise'],[],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],['exclusive'],[],[],[],[],2023-09-25 16:01:53,fashion ,merchandise 
+urban fashion apparel,Sat Sep 23 02:02:12 +0000 2023,['apparel'],[],"['urban', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-23 02:02:12,fashion ,apparel 
+Nygård Fashion Collection,Mon Sep 25 16:29:00 +0000 2023,[],['fashion'],['nygard'],[],[],[],[],['collection'],[],[],[],[],[],[],[],[],[],2023-09-25 16:29:00,fashion ,
+fashion history books,Tue Sep 19 17:38:57 +0000 2023,['books'],['fashion'],[],[],[],[],[],[],['history'],[],[],[],[],[],[],[],[],2023-09-19 17:38:57,fashion ,books 
+autumn fashion clothing,Tue Sep 19 17:38:57 +0000 2023,['clothing'],['fashion'],[],[],[],[],[],[],[],[],[],['autumn'],[],[],[],[],[],2023-09-19 17:38:57,fashion ,clothing 
+fashion model merchandise,Tue Sep 19 17:38:57 +0000 2023,['merchandise'],['fashion'],[],['model'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-19 17:38:57,fashion ,merchandise 
+fashion design textbooks,Wed Sep 20 14:17:40 +0000 2023,['textbooks'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-20 14:17:40,fashion ,textbooks 
+fashion illustration supplies,Wed Sep 20 14:17:40 +0000 2023,['supplies'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-09-20 14:17:40,fashion ,supplies 
+Dark Art Fashion Dress,Tue Sep 19 23:35:58 +0000 2023,['dress'],['fashion'],[],[],[],['dark'],[],[],['art'],[],[],[],[],[],[],[],[],2023-09-19 23:35:58,fashion ,dress 
+Autumn Fashion Collection,Tue Sep 19 23:35:58 +0000 2023,[],['fashion'],[],[],[],[],[],['collection'],[],[],[],['autumn'],[],[],[],[],[],2023-09-19 23:35:58,fashion ,
+Crown Accessories,Tue Sep 19 23:35:58 +0000 2023,['accessories'],[],['crown'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-19 23:35:58,accessories ,accessories 
+fashion chains,Wed Sep 20 19:50:26 +0000 2023,['chains'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-20 19:50:26,fashion ,chains 
+urban fashion collections,Wed Sep 20 19:50:26 +0000 2023,[],[],"['urban', 'fashion']",[],[],[],[],['collections'],[],[],[],[],[],[],[],[],[],2023-09-20 19:50:26,fashion ,
+Fashion Statement Belts,Thu Sep 21 17:52:49 +0000 2023,['belts'],['fashion'],[],[],[],[],[],['statement'],[],[],[],[],[],[],[],[],[],2023-09-21 17:52:49,fashion ,belts 
+fashion accessories,Tue Sep 19 23:08:58 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-19 23:08:58,fashion accessories ,accessories 
+fashion jewelry,Fri Sep 22 06:06:16 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-22 06:06:16,fashion ,jewelry 
+tattoo-inspired fashion items,Fri Sep 22 06:06:16 +0000 2023,['items'],['inspired'],[],[],['fashion'],[],[],['tattoo'],[],[],[],[],[],[],[],[],[],2023-09-22 06:06:16,fashion ,items 
+fashion accessories with AI art,Fri Sep 22 06:06:16 +0000 2023,['accessories'],['fashion'],['ai'],[],['art'],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-22 06:06:16,fashion accessories ,accessories 
+Fashion Streetwear,Thu Sep 21 17:19:30 +0000 2023,[],[],"['fashion', 'streetwear']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-21 17:19:30,fashion ,
+Fashion-forward Sunglasses,Fri Sep 22 04:34:02 +0000 2023,['sunglasses'],['fashion'],[],[],[],[],[],['forward'],[],[],[],[],[],[],[],[],[],2023-09-22 04:34:02,fashion ,sunglasses 
+fashion illustration prints,Thu Sep 21 07:42:58 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-09-21 07:42:58,fashion ,prints 
+stylish accessories,Thu Sep 21 07:42:58 +0000 2023,['accessories'],['stylish'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-21 07:42:58,accessories ,accessories 
+fashion design books,Thu Sep 21 07:42:58 +0000 2023,['books'],['fashion'],[],[],['design'],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-21 07:42:58,fashion ,books 
+Milan Fashion Week Official Merchandise,Fri Sep 22 03:15:29 +0000 2023,['merchandise'],[],[],[],"['fashion', 'week', 'official']",[],[],[],[],['milan'],[],[],[],[],[],[],[],2023-09-22 03:15:29,fashion ,merchandise 
+fashion style guide,Thu Sep 21 12:01:00 +0000 2023,['guide'],['fashion'],[],[],[],[],[],['style'],[],[],[],[],[],[],[],[],[],2023-09-21 12:01:00,fashion ,guide 
+Fashion Statement Pieces,Thu Sep 21 12:55:01 +0000 2023,['pieces'],['fashion'],[],[],[],[],[],['statement'],[],[],[],[],[],[],[],[],[],2023-09-21 12:55:01,fashion ,pieces 
+Fashion Ankle Boots,Fri Sep 22 06:14:05 +0000 2023,"['ankle', 'boots']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-22 06:14:05,fashion ,ankle boots 
+fashion photography equipment,Mon Sep 18 23:57:49 +0000 2023,['equipment'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-18 23:57:49,fashion ,equipment 
+fashion boots,Sun Sep 17 20:58:11 +0000 2023,['boots'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-17 20:58:11,fashion ,boots 
+fashion accessories,Sun Sep 17 20:58:11 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-17 20:58:11,fashion accessories ,accessories 
+fashion photography course,Mon Sep 18 13:26:08 +0000 2023,['course'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-18 13:26:08,fashion ,course 
+AI-generated fashion apparel,Tue Sep 19 10:22:41 +0000 2023,['apparel'],['fashion'],['ai'],[],[],[],[],[],[],[],[],[],['generated'],[],[],[],[],2023-09-19 10:22:41,fashion ,apparel 
+fashion accessories inspired by AI,Tue Sep 19 10:22:41 +0000 2023,['accessories'],['fashion'],['ai'],[],[],[],[],[],[],[],[],[],['inspired'],[],[],[],[],2023-09-19 10:22:41,fashion accessories ,accessories 
+designer accessories,Tue Sep 19 06:13:28 +0000 2023,['accessories'],['designer'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-19 06:13:28,accessories ,accessories 
+fashion dresses,Tue Sep 19 06:54:03 +0000 2023,['dresses'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-19 06:54:03,fashion ,dresses 
+celebrity inspired fashion,Tue Sep 19 06:54:03 +0000 2023,['fashion'],"['celebrity', 'inspired']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-19 06:54:03,fashion ,fashion 
+fashion apparel,Sun Sep 17 17:48:35 +0000 2023,[],['fashion'],[],['apparel'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-17 17:48:35,fashion ,
+Fashion Jewelry,Fri Sep 15 06:17:59 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-15 06:17:59,fashion ,jewelry 
+Virtual Fashion Accessories,Mon Sep 18 14:05:10 +0000 2023,['accessories'],"['virtual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-18 14:05:10,fashion accessories ,accessories 
+fashion accessories,Sat Sep 16 13:56:13 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-16 13:56:13,fashion accessories ,accessories 
+autumn fashion clothing,Tue Sep 19 00:32:46 +0000 2023,['clothing'],['fashion'],[],[],[],[],[],[],[],[],[],['autumn'],[],[],[],[],[],2023-09-19 00:32:46,fashion ,clothing 
+floral hair accessories,Tue Sep 19 00:32:46 +0000 2023,"['hair', 'accessories']",['floral'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-19 00:32:46,accessories ,hair accessories 
+Iris Apfel Fashion Magazine,Mon Sep 18 16:39:47 +0000 2023,['magazine'],['fashion'],"['iris', 'apfel']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-18 16:39:47,fashion ,magazine 
+Fashion Inspiration Books,Mon Sep 18 16:39:47 +0000 2023,['books'],['fashion'],[],[],[],[],[],['inspiration'],[],[],[],[],[],[],[],[],[],2023-09-18 16:39:47,fashion ,books 
+Vintage Fashion Magazines,Mon Sep 18 16:39:47 +0000 2023,['magazines'],[],[],[],['fashion'],[],[],[],[],[],[],[],['vintage'],[],[],[],[],2023-09-18 16:39:47,fashion ,magazines 
+fashion illustration prints,Tue Sep 19 11:51:02 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-09-19 11:51:02,fashion ,prints 
+urban fashion clothing,Tue Sep 19 11:51:02 +0000 2023,['clothing'],['fashion'],['urban'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-19 11:51:02,fashion ,clothing 
+fashion necklace,Thu Sep 14 14:40:15 +0000 2023,['necklace'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-14 14:40:15,fashion ,necklace 
+fashion photography books,Thu Sep 14 21:06:44 +0000 2023,['books'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-14 21:06:44,fashion ,books 
+Fashion Hoodie,Fri Sep 15 03:17:53 +0000 2023,['hoodie'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-15 03:17:53,fashion ,hoodie 
+fashion accessories,Thu Sep 14 10:22:04 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-14 10:22:04,fashion accessories ,accessories 
+Second Life fashion items,Wed Sep 13 20:04:19 +0000 2023,['items'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-13 20:04:19,fashion ,items 
+digital accessories for avatars,Wed Sep 13 20:04:19 +0000 2023,['accessories'],['digital'],[],['avatars'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-13 20:04:19,accessories ,accessories 
+Men's Fashion Accessories,Thu Sep 14 13:22:16 +0000 2023,['accessories'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-14 13:22:16,fashion accessories ,accessories 
+Custom Made Fashion Items,Thu Sep 14 20:52:03 +0000 2023,['items'],"['custom', 'fashion']",[],[],[],[],[],[],[],[],[],[],['made'],[],[],[],[],2023-09-14 20:52:03,fashion ,items 
+Slow Fashion Apparel,Thu Sep 14 20:52:03 +0000 2023,['apparel'],"['slow', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-14 20:52:03,fashion ,apparel 
+Fashion Sneakers,Thu Sep 14 06:24:05 +0000 2023,['sneakers'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-14 06:24:05,fashion ,sneakers 
+Fashion Style Tee,Wed Sep 13 14:05:18 +0000 2023,['tee'],"['fashion', 'style']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-13 14:05:18,fashion ,tee 
+Fashion Outfit,Thu Sep 14 12:16:35 +0000 2023,['outfit'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-14 12:16:35,fashion ,outfit 
+Nygard Fashion Merchandise,Thu Sep 14 11:25:29 +0000 2023,['merchandise'],['fashion'],['nygard'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-14 11:25:29,fashion ,merchandise 
+Fashion Designer Biographies Collection,Thu Sep 14 11:25:29 +0000 2023,[],['fashion'],['designer'],[],[],[],[],"['biographies', 'collection']",[],[],[],[],[],[],[],[],[],2023-09-14 11:25:29,fashion ,
+Fashion Week Event Passes,Thu Sep 14 11:25:29 +0000 2023,['passes'],[],[],[],"['fashion', 'week', 'event']",[],[],[],[],[],[],[],[],[],[],[],[],2023-09-14 11:25:29,fashion ,passes 
+Fashion Style Guides,Thu Sep 14 11:25:29 +0000 2023,['guides'],['fashion'],[],[],[],[],[],['style'],[],[],[],[],[],[],[],[],[],2023-09-14 11:25:29,fashion ,guides 
+Fashion Illustration Book,Thu Sep 14 12:33:57 +0000 2023,['book'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-09-14 12:33:57,fashion ,book 
+Fashion Photography Prints,Mon May 01 14:00:00 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-05-01 14:00:00,fashion ,prints 
+Autumn Fashion Boots,Wed Aug 30 23:03:14 +0000 2023,['boots'],['fashion'],[],[],[],[],[],[],[],[],[],['autumn'],[],[],[],[],[],2023-08-30 23:03:14,fashion ,boots 
+Winter Fashion Coats,Wed Aug 30 23:03:14 +0000 2023,['coats'],['fashion'],[],[],[],[],[],[],[],[],[],['winter'],[],[],[],[],[],2023-08-30 23:03:14,fashion ,coats 
+Fashion Photography Prints,Wed Aug 30 23:03:14 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-30 23:03:14,fashion ,prints 
+Iris Apfel fashion collection,Tue Aug 29 15:27:46 +0000 2023,[],['fashion'],"['iris', 'apfel']",[],[],[],[],['collection'],[],[],[],[],[],[],[],[],[],2023-08-29 15:27:46,fashion ,
+fashion accessories,Tue Aug 29 15:27:46 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-29 15:27:46,fashion accessories ,accessories 
+fashion jeans,Wed Aug 30 16:22:46 +0000 2023,['jeans'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-30 16:22:46,fashion ,jeans 
+fashion accessories for men,Wed Aug 30 08:54:03 +0000 2023,['accessories'],['fashion'],[],['men'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-30 08:54:03,fashion accessories ,accessories 
+second life fashion outfits,Wed Aug 30 16:07:36 +0000 2023,['outfits'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-30 16:07:36,fashion ,outfits 
+virtual accessories,Wed Aug 30 16:07:36 +0000 2023,"['virtual', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-30 16:07:36,accessories ,virtual accessories 
+fashion sketch book,Tue Aug 29 16:01:37 +0000 2023,['book'],['fashion'],[],[],[],[],[],['sketch'],[],[],[],[],[],[],[],[],[],2023-08-29 16:01:37,fashion ,book 
+men's fashion accessories,Mon Aug 28 13:16:13 +0000 2023,['accessories'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-28 13:16:13,fashion accessories ,accessories 
+fashion photography prints,Mon Aug 28 13:16:13 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-28 13:16:13,fashion ,prints 
+Fashion Accessories,Tue Aug 29 20:52:47 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-29 20:52:47,fashion accessories ,accessories 
+fashion accessories,Tue Aug 29 07:28:24 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-29 07:28:24,fashion accessories ,accessories 
+fashion illustration prints,Tue Aug 29 15:01:30 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-08-29 15:01:30,fashion ,prints 
+decorative home accessories,Wed Aug 30 12:51:45 +0000 2023,"['home', 'accessories']",['decorative'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-30 12:51:45,accessories ,home accessories 
+Fashion Outfit Set,Wed Aug 30 08:00:58 +0000 2023,['outfit'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],['set'],[],[],[],2023-08-30 08:00:58,fashion ,outfit 
+Fashion Photography Book,Tue Aug 29 23:56:54 +0000 2023,['book'],['fashion'],[],[],[],[],[],['photography'],[],[],[],[],[],[],[],[],[],2023-08-29 23:56:54,fashion ,book 
+Fashion Photography Accessories,Tue Aug 29 23:56:54 +0000 2023,['accessories'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-29 23:56:54,fashion accessories ,accessories 
+Fashion photography props,Tue Aug 29 23:55:58 +0000 2023,['props'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-29 23:55:58,fashion ,props 
+colorful fashion clothing,Sat Aug 26 17:39:30 +0000 2023,['clothing'],"['colorful', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-26 17:39:30,fashion ,clothing 
+fashion accessories,Sat Aug 26 17:39:30 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-26 17:39:30,fashion accessories ,accessories 
+Fall Fashion Hoodies,Tue Aug 29 01:03:45 +0000 2023,['hoodies'],['fashion'],[],[],[],[],[],[],[],[],[],['fall'],[],[],[],[],[],2023-08-29 01:03:45,fashion ,hoodies 
+fashion accessories,Fri Aug 25 05:33:39 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-25 05:33:39,fashion accessories ,accessories 
+Fashion Accessories,Fri Aug 25 19:44:47 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-25 19:44:47,fashion accessories ,accessories 
+fashion designer labels,Fri Aug 25 23:31:03 +0000 2023,['labels'],['fashion'],[],['designer'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-25 23:31:03,fashion ,labels 
+AI-generated fashion prints,Thu Aug 24 22:53:16 +0000 2023,['prints'],"['generated', 'fashion']",['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-24 22:53:16,fashion ,prints 
+fashion illustration posters,Thu Aug 24 22:53:16 +0000 2023,['posters'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-24 22:53:16,fashion ,posters 
+high-fashion boots,Sat Aug 26 15:34:25 +0000 2023,['boots'],"['high', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-26 15:34:25,fashion ,boots 
+Fashion Statement Shoes,Fri Aug 25 13:40:27 +0000 2023,['shoes'],['fashion'],[],[],[],[],[],['statement'],[],[],[],[],[],[],[],[],[],2023-08-25 13:40:27,fashion ,shoes 
+High Fashion Accessories,Fri Aug 25 13:40:27 +0000 2023,['accessories'],"['high', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-25 13:40:27,fashion accessories ,accessories 
+AI-generated fashion prints,Thu Aug 24 21:50:36 +0000 2023,['prints'],"['generated', 'fashion']",['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-24 21:50:36,fashion ,prints 
+floral accessories,Thu Aug 24 21:50:36 +0000 2023,['accessories'],['floral'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-24 21:50:36,accessories ,accessories 
+fashion-themed stationery,Thu Aug 24 21:50:36 +0000 2023,['stationery'],"['fashion', '-', 'themed']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-24 21:50:36,fashion ,stationery 
+fashion accessories,Sat Aug 26 00:37:25 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-26 00:37:25,fashion accessories ,accessories 
+fashion apparel,Sat Aug 26 00:37:25 +0000 2023,[],['fashion'],[],['apparel'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-26 00:37:25,fashion ,
+African Fashion Accessories,Fri Aug 25 11:07:39 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],['african'],[],[],[],[],[],[],[],2023-08-25 11:07:39,fashion accessories ,accessories 
+Fashion Designer Workshops,Fri Aug 25 11:07:39 +0000 2023,[],['fashion'],['designer'],[],[],[],[],[],[],['workshops'],[],[],[],[],[],[],[],2023-08-25 11:07:39,fashion ,
+Online Fashion Business Courses,Fri Aug 25 11:07:39 +0000 2023,['courses'],['online'],[],[],"['fashion', 'business']",[],[],[],[],[],[],[],[],[],[],[],[],2023-08-25 11:07:39,fashion ,courses 
+fashion accessories,Sat Aug 26 03:18:20 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-26 03:18:20,fashion accessories ,accessories 
+fashion accessories,Thu Aug 24 15:11:05 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-24 15:11:05,fashion accessories ,accessories 
+fashion week tickets,Fri Aug 25 11:39:55 +0000 2023,['tickets'],[],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-08-25 11:39:55,fashion ,tickets 
+fashion show merchandise,Fri Aug 25 11:39:55 +0000 2023,['merchandise'],['fashion'],[],[],['show'],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-25 11:39:55,fashion ,merchandise 
+fashion accessories,Fri Aug 25 11:39:55 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-25 11:39:55,fashion accessories ,accessories 
+fashion week tickets,Fri Aug 25 15:27:30 +0000 2023,['tickets'],[],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-08-25 15:27:30,fashion ,tickets 
+fashion accessories,Fri Aug 25 15:27:30 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-25 15:27:30,fashion accessories ,accessories 
+grammy-themed accessories,Wed Aug 23 12:17:06 +0000 2023,['accessories'],"['-', 'themed']",['grammy'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-23 12:17:06,accessories ,accessories 
+Summer Fashion Apparel,Tue Aug 22 20:02:41 +0000 2023,['apparel'],['fashion'],[],[],['summer'],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-22 20:02:41,fashion ,apparel 
+Fashion photography guide,Mon Aug 21 14:03:05 +0000 2023,['guide'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-21 14:03:05,fashion ,guide 
+Fashionista accessories,Mon Aug 21 14:03:05 +0000 2023,['accessories'],[],['fashionista'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-21 14:03:05,accessories ,accessories 
+online fashion courses,Tue Aug 22 01:27:36 +0000 2023,['courses'],['online'],[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-22 01:27:36,fashion ,courses 
+fashion blogger merchandise,Wed Aug 23 08:56:24 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-08-23 08:56:24,fashion ,merchandise 
+Vogue fashion magazine subscription,Wed Aug 23 08:56:24 +0000 2023,['magazine'],['fashion'],['vogue'],[],[],[],[],[],[],[],[],[],['subscription'],[],[],[],[],2023-08-23 08:56:24,fashion ,magazine 
+fashion photography books,Wed Aug 23 08:56:24 +0000 2023,['books'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-23 08:56:24,fashion ,books 
+Fashion Sneakers,Thu Aug 24 04:29:47 +0000 2023,['sneakers'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-24 04:29:47,fashion ,sneakers 
+3D-printed fashion jacket,Wed Aug 23 15:40:41 +0000 2023,['jacket'],"['3d', 'printed', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-23 15:40:41,fashion ,jacket 
+Zeagoo Fashion Accessories,Wed Aug 23 10:00:00 +0000 2023,['accessories'],['fashion'],['zeagoo'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-23 10:00:00,fashion accessories ,accessories 
+Fashion Jewelry Sets,Wed Aug 23 10:00:00 +0000 2023,"['jewelry', 'sets']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-23 10:00:00,fashion ,jewelry sets 
+Aditi Rao Hydari Fashion Collection,Tue Aug 22 16:30:00 +0000 2023,['collection'],['fashion'],"['aditi', 'rao']",[],[],[],[],['hydari'],[],[],[],[],[],[],[],[],[],2023-08-22 16:30:00,fashion ,collection 
+Bollywood Celebrity Fashion Guide,Tue Aug 22 16:30:00 +0000 2023,[],[],['celebrity'],['fashion'],[],[],[],['guide'],[],['bollywood'],[],[],[],[],[],[],[],2023-08-22 16:30:00,fashion ,
+Branded Fashion Accessories,Tue Aug 22 05:45:26 +0000 2023,['accessories'],"['branded', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-22 05:45:26,fashion accessories ,accessories 
+fashion rings,Wed Aug 23 16:58:08 +0000 2023,['rings'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-23 16:58:08,fashion ,rings 
+Streetwear Accessories,Tue Aug 22 23:41:42 +0000 2023,"['streetwear', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-22 23:41:42,accessories ,streetwear accessories 
+fashion photography prints,Mon Aug 21 13:16:19 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-21 13:16:19,fashion ,prints 
+That Fashion Chick Apparel,Tue Aug 08 21:13:58 +0000 2023,['apparel'],[],[],['chick'],[],[],[],['fashion'],[],[],[],[],[],[],[],[],[],2023-08-08 21:13:58,fashion ,apparel 
+Fashion Nova Clothing,Tue Aug 08 21:13:58 +0000 2023,['clothing'],[],"['fashion', 'nova']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-08 21:13:58,fashion ,clothing 
+DIY Fashion Kits,Tue Aug 08 21:13:58 +0000 2023,['kits'],"['diy', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-08 21:13:58,fashion ,kits 
+Fashion Accessories,Tue Aug 08 21:13:58 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-08 21:13:58,fashion accessories ,accessories 
+celebrity-inspired fashion,Thu Aug 10 08:06:32 +0000 2023,['fashion'],['inspired'],['celebrity'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-10 08:06:32,fashion ,fashion 
+celebrity inspired fashion,Thu Aug 10 10:21:01 +0000 2023,['fashion'],"['celebrity', 'inspired']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-10 10:21:01,fashion ,fashion 
+fashion accessories,Thu Aug 10 10:21:01 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-10 10:21:01,fashion accessories ,accessories 
+Men's fashion suits,Fri Aug 11 03:03:12 +0000 2023,['suits'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-11 03:03:12,fashion ,suits 
+Fashion accessories,Fri Aug 11 03:03:12 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-11 03:03:12,fashion accessories ,accessories 
+fashion accessories,Fri Aug 11 09:32:29 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-11 09:32:29,fashion accessories ,accessories 
+urban fashion line,Fri Aug 11 09:32:29 +0000 2023,[],[],['urban'],[],[],[],[],"['fashion', 'line']",[],[],[],[],[],[],[],[],[],2023-08-11 09:32:29,fashion ,
+Fashion Illustration Prints,Thu Aug 10 15:02:54 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-08-10 15:02:54,fashion ,prints 
+fashion accessories,Wed Aug 09 22:23:14 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-09 22:23:14,fashion accessories ,accessories 
+custom fashion illustrations,Wed Aug 09 15:30:19 +0000 2023,['illustrations'],"['custom', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-09 15:30:19,fashion ,illustrations 
+fashion design workshops,Wed Aug 09 15:30:19 +0000 2023,[],['fashion'],['design'],[],[],[],[],[],[],['workshops'],[],[],[],[],[],[],[],2023-08-09 15:30:19,fashion ,
+personalized fashion consultations,Wed Aug 09 15:30:19 +0000 2023,[],['personalized'],[],[],['fashion'],[],[],['consultations'],[],[],[],[],[],[],[],[],[],2023-08-09 15:30:19,fashion ,
+Fashion Graphic T-Shirt,Wed Aug 09 08:16:25 +0000 2023,"['t', 'shirt']","['fashion', 'graphic']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-09 08:16:25,fashion ,t shirt 
+Fashion Illustration Book,Wed Aug 09 08:16:25 +0000 2023,['book'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-09 08:16:25,fashion ,book 
+Fashion Accessories,Wed Aug 09 04:20:58 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-09 04:20:58,fashion accessories ,accessories 
+Fashion Jewelry,Wed Aug 09 04:20:58 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-09 04:20:58,fashion ,jewelry 
+fashion accessories,Sun Aug 06 10:53:53 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-06 10:53:53,fashion accessories ,accessories 
+alternative rock fashion items,Sat Aug 05 12:48:18 +0000 2023,['items'],"['alternative', 'fashion']",['rock'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-05 12:48:18,fashion ,items 
+Fashion Hoodie,Tue Aug 08 00:56:55 +0000 2023,['hoodie'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-08 00:56:55,fashion ,hoodie 
+alternative rock fashion clothing,Fri Aug 04 05:21:38 +0000 2023,['clothing'],"['alternative', 'fashion']",['rock'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-04 05:21:38,fashion ,clothing 
+fashion accessories,Tue Aug 08 20:59:53 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-08 20:59:53,fashion accessories ,accessories 
+AI-generated fashion items,Tue Aug 08 18:19:29 +0000 2023,"['fashion', 'items']",['generated'],['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-08 18:19:29,fashion ,fashion items 
+Fashion Jewelry,Mon Aug 07 04:57:56 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-07 04:57:56,fashion ,jewelry 
+fashion tops,Sat Aug 05 14:17:00 +0000 2023,['tops'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-05 14:17:00,fashion ,tops 
+fashion accessories,Sat Aug 05 14:17:00 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-05 14:17:00,fashion accessories ,accessories 
+Guitar Pedal Board Accessories,Tue Aug 08 07:25:14 +0000 2023,"['guitar', 'pedal', 'board', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-08 07:25:14,accessories ,guitar pedal board accessories 
+Fashion Style Accessories,Mon Aug 07 07:13:52 +0000 2023,['accessories'],"['fashion', 'style']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-07 07:13:52,fashion accessories ,accessories 
+digital fashion outfits,Thu Aug 03 15:34:41 +0000 2023,['outfits'],"['digital', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-03 15:34:41,fashion ,outfits 
+metaverse avatar accessories,Thu Aug 03 15:34:41 +0000 2023,['accessories'],[],['avatar'],[],[],[],[],['metaverse'],[],[],[],[],[],[],[],[],[],2023-08-03 15:34:41,accessories ,accessories 
+fashion design books,Thu Aug 03 15:34:41 +0000 2023,['books'],['fashion'],[],[],['design'],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-03 15:34:41,fashion ,books 
+fashion accessories,Sun Aug 06 16:59:13 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-06 16:59:13,fashion accessories ,accessories 
+Harry Potter themed accessories,Tue Aug 08 09:54:21 +0000 2023,['accessories'],['themed'],[],[],[],[],[],[],"['harry', 'potter']",[],[],[],[],[],[],[],[],2023-08-08 09:54:21,accessories ,accessories 
+Harry Potter themed fashion items,Tue Aug 08 09:54:21 +0000 2023,['items'],"['themed', 'fashion']",[],[],[],[],[],[],"['harry', 'potter']",[],[],[],[],[],[],[],[],2023-08-08 09:54:21,fashion ,items 
+fashion jewelry,Sun Aug 06 16:30:49 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-06 16:30:49,fashion ,jewelry 
+Fashion Designer Tools Set,Sun Aug 06 22:55:10 +0000 2023,['tools'],['fashion'],[],['designer'],[],[],[],[],[],[],[],[],[],['set'],[],[],[],2023-08-06 22:55:10,fashion ,tools 
+Fashion Sketchbook,Sun Aug 06 22:55:10 +0000 2023,['sketchbook'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-06 22:55:10,fashion ,sketchbook 
+fashion design courses,Tue Aug 08 14:51:54 +0000 2023,['courses'],[],[],[],"['fashion', 'design']",[],[],[],[],[],[],[],[],[],[],[],[],2023-08-08 14:51:54,fashion ,courses 
+design tools for fashion students,Tue Aug 08 14:51:54 +0000 2023,['tools'],[],[],['students'],['fashion'],[],[],['design'],[],[],[],[],[],[],[],[],[],2023-08-08 14:51:54,fashion ,tools 
+fashion textbooks,Tue Aug 08 14:51:54 +0000 2023,['textbooks'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-08 14:51:54,fashion ,textbooks 
+Cate Blanchett Fashion Prints,Sat Aug 05 07:32:40 +0000 2023,['prints'],['fashion'],"['cate', 'blanchett']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-05 07:32:40,fashion ,prints 
+Fashion History Books,Sat Aug 05 07:32:40 +0000 2023,['books'],['fashion'],[],[],[],[],[],[],['history'],[],[],[],[],[],[],[],[],2023-08-05 07:32:40,fashion ,books 
+Vintage Fashion Accessories,Sat Aug 05 07:32:40 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],['vintage'],[],[],[],[],2023-08-05 07:32:40,fashion accessories ,accessories 
+fashion accessories,Tue Aug 08 07:10:19 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-08 07:10:19,fashion accessories ,accessories 
+Fashion Handbags for Girls,Fri Feb 17 15:43:03 +0000 2023,['handbags'],['fashion'],[],['girls'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-17 15:43:03,fashion ,handbags 
+fashion accessories,Sat Feb 04 22:24:09 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-04 22:24:09,fashion accessories ,accessories 
+fashion accessories,Sun Feb 05 00:05:40 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-05 00:05:40,fashion accessories ,accessories 
+fashionable hair accessories,Sat Feb 11 02:05:42 +0000 2023,"['hair', 'accessories']",['fashionable'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-11 02:05:42,accessories ,hair accessories 
+minimalist fashion jewelry,Thu Feb 09 02:05:35 +0000 2023,['jewelry'],"['minimalist', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-09 02:05:35,fashion ,jewelry 
+fashion blogger merchandise,Thu Feb 09 02:05:35 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-02-09 02:05:35,fashion ,merchandise 
+minimalist fashion accessories,Tue Feb 07 01:05:40 +0000 2023,['accessories'],"['minimalist', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-07 01:05:40,fashion accessories ,accessories 
+Dazzling Fashion Handbags,Wed Feb 01 13:13:17 +0000 2023,['handbags'],"['dazzling', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-01 13:13:17,fashion ,handbags 
+fashion bags,Wed Feb 01 17:17:51 +0000 2023,['bags'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-01 17:17:51,fashion ,bags 
+fashion accessories,Wed Feb 01 13:00:02 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-01 13:00:02,fashion accessories ,accessories 
+high-fashion photography prints,Wed Feb 01 13:00:02 +0000 2023,['prints'],"['high', 'fashion']",[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-01 13:00:02,fashion ,prints 
+fashion magazines featuring Fabrizio Celleri,Wed Feb 01 13:00:02 +0000 2023,['magazines'],['fashion'],"['fabrizio', 'celleri']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-01 13:00:02,fashion ,magazines 
+fashion scarves,Sun Nov 05 17:42:27 +0000 2023,['scarves'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-05 17:42:27,fashion ,scarves 
+hair accessories,Wed Nov 29 00:08:25 +0000 2023,"['hair', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-29 00:08:25,accessories ,hair accessories 
+bijoux accessories,Sun Nov 05 09:04:50 +0000 2023,['accessories'],[],['bijoux'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-05 09:04:50,accessories ,accessories 
+Custom Graphic Design Accessories,Wed Nov 29 23:56:30 +0000 2023,['accessories'],"['custom', 'graphic', 'design']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-29 23:56:30,accessories ,accessories 
+Women's Fashion Tops,Mon Nov 20 09:37:55 +0000 2023,['tops'],['fashion'],[],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-20 09:37:55,fashion ,tops 
+Gun-themed Gaming Accessories,Thu Nov 02 20:48:59 +0000 2023,"['gaming', 'accessories']","['gun', 'themed']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-02 20:48:59,accessories ,gaming accessories 
+fashion necklaces,Tue Nov 21 16:51:56 +0000 2023,['necklaces'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-21 16:51:56,fashion ,necklaces 
+fashion necklaces,Tue Nov 28 22:54:39 +0000 2023,['necklaces'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-28 22:54:39,fashion ,necklaces 
+women's fashion accessories,Tue Nov 28 22:54:39 +0000 2023,['accessories'],['fashion'],[],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-11-28 22:54:39,fashion accessories ,accessories 
+Fashion Accessories,Wed Aug 09 20:51:09 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-09 20:51:09,fashion accessories ,accessories 
+cyberpunk fashion apparel,Sun Aug 20 05:19:46 +0000 2023,['apparel'],['fashion'],['cyberpunk'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-20 05:19:46,fashion ,apparel 
+fashion accessories inspired by AI art,Sun Aug 20 05:19:46 +0000 2023,['accessories'],['fashion'],['ai'],[],[],[],[],[],[],[],[],[],['inspired'],[],[],[],[],2023-08-20 05:19:46,fashion accessories ,accessories 
+fashion jackets,Fri Aug 25 18:01:00 +0000 2023,['jackets'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-25 18:01:00,fashion ,jackets 
+women's fashion leggings,Sat Aug 05 23:41:50 +0000 2023,['leggings'],['fashion'],[],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-05 23:41:50,fashion ,leggings 
+fashion try-on haul videos,Sat Aug 05 23:41:50 +0000 2023,['videos'],['fashion'],[],[],[],[],[],"['try', 'haul']",[],[],[],[],[],[],[],[],[],2023-08-05 23:41:50,fashion ,videos 
+fashion subscription service,Sat Aug 05 23:41:50 +0000 2023,['service'],['fashion'],[],[],[],[],[],['subscription'],[],[],[],[],[],[],[],[],[],2023-08-05 23:41:50,fashion ,service 
+fashion accessories,Tue Aug 29 04:55:00 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-29 04:55:00,fashion accessories ,accessories 
+fashion accessories,Thu Aug 17 04:15:22 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-17 04:15:22,fashion accessories ,accessories 
+Chic accessories,Fri Aug 18 13:17:27 +0000 2023,['accessories'],['chic'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-18 13:17:27,accessories ,accessories 
+fashion scarf,Sat Aug 19 04:58:18 +0000 2023,['scarf'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-19 04:58:18,fashion ,scarf 
+fashion headbands,Thu Aug 17 12:50:10 +0000 2023,['headbands'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-17 12:50:10,fashion ,headbands 
+fashion styling books,Thu Aug 17 12:50:10 +0000 2023,['books'],['fashion'],[],[],[],[],[],['styling'],[],[],[],[],[],[],[],[],[],2023-08-17 12:50:10,fashion ,books 
+women's accessories,Thu Aug 17 12:50:10 +0000 2023,['accessories'],[],[],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-08-17 12:50:10,accessories ,accessories 
+fashion jewelry,Fri Jul 14 23:43:09 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-14 23:43:09,fashion ,jewelry 
+Fashion Accessories,Sun Jul 16 07:11:58 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-16 07:11:58,fashion accessories ,accessories 
+fashion tops,Fri Jul 14 04:18:00 +0000 2023,['tops'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-14 04:18:00,fashion ,tops 
+Fashion accessories,Tue Jul 11 02:51:26 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-11 02:51:26,fashion accessories ,accessories 
+stylish accessories,Thu Jul 27 02:46:17 +0000 2023,['accessories'],['stylish'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-27 02:46:17,accessories ,accessories 
+Sansa Stark costume accessories,Mon Jul 03 16:15:49 +0000 2023,"['costume', 'accessories']",[],"['sansa', 'stark']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-03 16:15:49,accessories ,costume accessories 
+Realistic Love Doll Accessories,Tue Jul 11 15:00:06 +0000 2023,"['doll', 'accessories']",['realistic'],[],[],[],[],[],['love'],[],[],[],[],[],[],[],[],[],2023-07-11 15:00:06,accessories ,doll accessories 
+fashion accessories,Sat Jul 01 08:43:31 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-01 08:43:31,fashion accessories ,accessories 
+fashion photography books,Sat Jul 29 15:31:25 +0000 2023,['books'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-29 15:31:25,fashion ,books 
+fashion dresses,Sat Jul 29 04:33:42 +0000 2023,['dresses'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-29 04:33:42,fashion ,dresses 
+fashion blogger merchandise,Sat Jul 29 04:33:42 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-07-29 04:33:42,fashion ,merchandise 
+Fashion Blog Merchandise,Sun Jul 30 07:52:10 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blog'],[],[],[],[],[],[],[],[],[],2023-07-30 07:52:10,fashion ,merchandise 
+Fashion Photography Props,Sun Jul 30 07:52:10 +0000 2023,['props'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-30 07:52:10,fashion ,props 
+Stylish Hair Accessories,Sun Jul 30 07:52:10 +0000 2023,"['hair', 'accessories']",['stylish'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-30 07:52:10,accessories ,hair accessories 
+Bollywood-inspired Fashion Pieces,Sat Jul 29 10:03:10 +0000 2023,"['fashion', 'pieces']",['inspired'],[],[],[],[],[],[],[],['bollywood'],[],[],[],[],[],[],[],2023-07-29 10:03:10,fashion ,fashion pieces 
+Couture Fashion Accessories,Sat Jul 29 10:03:10 +0000 2023,['accessories'],['fashion'],['couture'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-29 10:03:10,fashion accessories ,accessories 
+summer outfit accessories,Sun Jul 30 04:11:15 +0000 2023,"['outfit', 'accessories']",[],[],[],['summer'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-30 04:11:15,accessories ,outfit accessories 
+fashion influencer merchandise,Sun Jul 30 04:11:15 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['influencer'],[],[],[],[],[],[],[],[],[],2023-07-30 04:11:15,fashion ,merchandise 
+Fashion High Heels,Sun Jul 30 12:07:55 +0000 2023,"['high', 'heels']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-30 12:07:55,fashion ,high heels 
+Fashion Blogger Merchandise,Sun Jul 30 06:28:07 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-07-30 06:28:07,fashion ,merchandise 
+B.Voc in Fashion Design Course,Sun Jul 30 07:43:23 +0000 2023,['course'],[],"['b', '.', 'voc']",[],"['fashion', 'design']",[],[],[],[],[],[],[],[],[],[],[],[],2023-07-30 07:43:23,fashion ,course 
+Fashion Design Books,Sun Jul 30 07:43:23 +0000 2023,['books'],['fashion'],[],[],['design'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-30 07:43:23,fashion ,books 
+Fashion Illustration Tools,Sun Jul 30 07:43:23 +0000 2023,['tools'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-07-30 07:43:23,fashion ,tools 
+Fashion Design Software,Sun Jul 30 07:43:23 +0000 2023,['fashion'],[],[],[],[],[],[],"['design', 'software']",[],[],[],[],[],[],[],[],[],2023-07-30 07:43:23,fashion ,fashion 
+Diesel Accessories,Fri Jul 28 17:03:41 +0000 2023,['accessories'],[],['diesel'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-28 17:03:41,accessories ,accessories 
+fashion photography books,Sat Jul 29 15:57:23 +0000 2023,['books'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-29 15:57:23,fashion ,books 
+fashion award trophies,Sun Jul 30 23:16:15 +0000 2023,[],['fashion'],[],[],[],[],[],"['award', 'trophies']",[],[],[],[],[],[],[],[],[],2023-07-30 23:16:15,fashion ,
+designer fashion collections,Sun Jul 30 23:16:15 +0000 2023,[],"['designer', 'fashion']",[],[],[],[],[],['collections'],[],[],[],[],[],[],[],[],[],2023-07-30 23:16:15,fashion ,
+fashion event tickets,Sun Jul 30 23:16:15 +0000 2023,['tickets'],[],[],[],"['fashion', 'event']",[],[],[],[],[],[],[],[],[],[],[],[],2023-07-30 23:16:15,fashion ,tickets 
+fashion t-shirts,Fri Jul 28 21:30:18 +0000 2023,"['t', 'shirts']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-28 21:30:18,fashion ,t shirts 
+fashion accessories,Fri Jul 28 21:30:18 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-28 21:30:18,fashion accessories ,accessories 
+Fashion Show Tickets,Wed Jul 26 23:56:10 +0000 2023,['tickets'],[],[],[],"['fashion', 'show']",[],[],[],[],[],[],[],[],[],[],[],[],2023-07-26 23:56:10,fashion ,tickets 
+custom fashion pieces,Tue Jul 25 16:25:44 +0000 2023,['pieces'],"['custom', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-25 16:25:44,fashion ,pieces 
+fashion accessories,Tue Jul 25 16:25:44 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-25 16:25:44,fashion accessories ,accessories 
+Men's Fashion Oversized Coat,Fri Jul 28 11:53:16 +0000 2023,['coat'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],['oversized'],[],[],[],[],[],[],2023-07-28 11:53:16,fashion ,coat 
+Streetwear Fashion Sneakers,Fri Jul 28 11:53:16 +0000 2023,['sneakers'],['fashion'],['streetwear'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-28 11:53:16,fashion ,sneakers 
+Fashion Blogger Merchandise,Fri Jul 28 11:53:16 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-07-28 11:53:16,fashion ,merchandise 
+Fashion Show Tickets,Fri Jul 28 11:53:16 +0000 2023,['tickets'],[],[],[],"['fashion', 'show']",[],[],[],[],[],[],[],[],[],[],[],[],2023-07-28 11:53:16,fashion ,tickets 
+Second Life avatar accessories,Fri Jul 28 15:03:02 +0000 2023,['accessories'],[],"['second', 'avatar']",[],[],[],[],['life'],[],[],[],[],[],[],[],[],[],2023-07-28 15:03:02,accessories ,accessories 
+virtual fashion outfits,Fri Jul 28 15:03:02 +0000 2023,['outfits'],"['virtual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-28 15:03:02,fashion ,outfits 
+fashion show tickets,Tue Jul 25 07:33:25 +0000 2023,['tickets'],[],[],[],"['fashion', 'show']",[],[],[],[],[],[],[],[],[],[],[],[],2023-07-25 07:33:25,fashion ,tickets 
+fashion magazines,Tue Jul 25 07:33:25 +0000 2023,['magazines'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-25 07:33:25,fashion ,magazines 
+fashion accessories,Tue Jul 25 07:33:25 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-25 07:33:25,fashion accessories ,accessories 
+gaming accessories,Wed Jul 26 16:40:00 +0000 2023,"['gaming', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-26 16:40:00,accessories ,gaming accessories 
+Fashion Sneakers for Women,Fri Jul 28 01:27:40 +0000 2023,['sneakers'],['fashion'],[],['women'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-28 01:27:40,fashion ,sneakers 
+fashion earrings accessories,Wed Jul 26 14:34:10 +0000 2023,"['earrings', 'accessories']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-26 14:34:10,fashion accessories ,earrings accessories 
+Fashion Accessories,Wed Jul 26 09:30:08 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-26 09:30:08,fashion accessories ,accessories 
+Streetwear Accessories,Thu Jul 27 23:56:20 +0000 2023,"['streetwear', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-27 23:56:20,accessories ,streetwear accessories 
+Fashion Statement Earrings,Thu Jul 27 23:56:20 +0000 2023,['earrings'],['fashion'],[],[],[],[],[],['statement'],[],[],[],[],[],[],[],[],[],2023-07-27 23:56:20,fashion ,earrings 
+fashion designer apparel,Thu Jul 27 21:37:19 +0000 2023,['apparel'],"['fashion', 'designer']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-27 21:37:19,fashion ,apparel 
+fashion accessories,Thu Jul 27 21:37:19 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-27 21:37:19,fashion accessories ,accessories 
+Zepeto fashion items,Fri Jul 28 12:46:07 +0000 2023,['items'],['fashion'],['zepeto'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-28 12:46:07,fashion ,items 
+fashion accessories,Thu Jul 27 11:21:38 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-27 11:21:38,fashion accessories ,accessories 
+Barbie Fashion Doll,Sun Jul 23 01:08:20 +0000 2023,['doll'],['fashion'],['barbie'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-23 01:08:20,fashion ,doll 
+Barbie Accessories,Sun Jul 23 01:08:20 +0000 2023,['accessories'],[],['barbie'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-23 01:08:20,accessories ,accessories 
+men's accessories,Mon Jul 24 15:06:24 +0000 2023,['accessories'],[],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-24 15:06:24,accessories ,accessories 
+Barbie Fashion Doll,Sun Jul 23 16:10:45 +0000 2023,['doll'],['fashion'],['barbie'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-23 16:10:45,fashion ,doll 
+Barbie Pink Accessories,Sun Jul 23 16:10:45 +0000 2023,['accessories'],[],['barbie'],[],[],['pink'],[],[],[],[],[],[],[],[],[],[],[],2023-07-23 16:10:45,accessories ,accessories 
+Fashion runway accessories,Sun Jul 23 16:10:45 +0000 2023,['accessories'],['fashion'],[],[],['runway'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-23 16:10:45,fashion accessories ,accessories 
+fantasy fashion accessories,Sun Jul 23 18:55:05 +0000 2023,['accessories'],['fashion'],['fantasy'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-23 18:55:05,fashion accessories ,accessories 
+Second Life fashion dress,Mon Jul 24 15:31:39 +0000 2023,['dress'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-24 15:31:39,fashion ,dress 
+avatar accessories,Mon Jul 24 15:31:39 +0000 2023,['accessories'],[],['avatar'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-24 15:31:39,accessories ,accessories 
+Summer Fashion Dresses,Sun Jul 23 07:18:13 +0000 2023,['dresses'],['fashion'],[],[],['summer'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-23 07:18:13,fashion ,dresses 
+Fashion Accessories,Sun Jul 23 07:18:13 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-23 07:18:13,fashion accessories ,accessories 
+Latex Nurse Accessories,Sat Jul 22 18:35:55 +0000 2023,['accessories'],[],[],['nurse'],[],[],['latex'],[],[],[],[],[],[],[],[],[],[],2023-07-22 18:35:55,accessories ,accessories 
+Fashion-Style Latex Outfit,Sat Jul 22 18:35:55 +0000 2023,['outfit'],"['fashion', '-', 'style']",[],[],[],[],['latex'],[],[],[],[],[],[],[],[],[],[],2023-07-22 18:35:55,fashion ,outfit 
+Gucci Fashion Footwear,Mon Jul 24 18:57:05 +0000 2023,['footwear'],['fashion'],['gucci'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-24 18:57:05,fashion ,footwear 
+Fashion Accessories for Jumpsuit,Mon Jul 24 06:45:08 +0000 2023,"['accessories', 'jumpsuit']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-24 06:45:08,fashion accessories ,accessories jumpsuit 
+Fashion Jewelry for Sarees,Mon Jul 24 12:00:49 +0000 2023,"['jewelry', 'sarees']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-24 12:00:49,fashion ,jewelry sarees 
+fashion accessories,Mon Jul 24 10:49:48 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-24 10:49:48,fashion accessories ,accessories 
+beach accessories,Mon Jul 24 16:44:36 +0000 2023,['accessories'],[],[],[],['beach'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-24 16:44:36,accessories ,accessories 
+fashion influencer merchandise,Mon Jul 24 16:44:36 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['influencer'],[],[],[],[],[],[],[],[],[],2023-07-24 16:44:36,fashion ,merchandise 
+Barbie-themed Accessories,Mon Jul 24 13:01:00 +0000 2023,['accessories'],['themed'],['barbie'],['-'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-24 13:01:00,accessories ,accessories 
+Fashion Earrings,Thu Jul 20 03:21:57 +0000 2023,['earrings'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-20 03:21:57,fashion ,earrings 
+editorial fashion photography book,Thu Jul 20 16:34:15 +0000 2023,['book'],[],['editorial'],[],[],[],[],['fashion'],['photography'],[],[],[],[],[],[],[],[],2023-07-20 16:34:15,fashion ,book 
+fashion chokers,Thu Jul 20 16:34:15 +0000 2023,['chokers'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-20 16:34:15,fashion ,chokers 
+photo shoot accessories,Thu Jul 20 16:34:15 +0000 2023,['accessories'],[],[],[],"['photo', 'shoot']",[],[],[],[],[],[],[],[],[],[],[],[],2023-07-20 16:34:15,accessories ,accessories 
+Second Life accessories,Fri Jul 21 20:27:52 +0000 2023,['accessories'],[],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-21 20:27:52,accessories ,accessories 
+virtual fashion photography tutorials,Fri Jul 21 20:27:52 +0000 2023,['tutorials'],['virtual'],[],[],['photography'],[],[],['fashion'],[],[],[],[],[],[],[],[],[],2023-07-21 20:27:52,fashion ,tutorials 
+Fashion Accessories for Events,Fri Jul 21 08:09:50 +0000 2023,['accessories'],['fashion'],[],[],['events'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-21 08:09:50,fashion accessories ,accessories 
+Celebrity-Inspired Fashion Collection,Fri Jul 21 08:09:50 +0000 2023,['collection'],"['celebrity', 'inspired']",[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-21 08:09:50,fashion ,collection 
+Fantasy-Style Fashion Outfit,Tue Jul 18 09:13:00 +0000 2023,['outfit'],"['style', 'fashion']",['fantasy'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-18 09:13:00,fashion ,outfit 
+AI-Generated Fashion Collection,Tue Jul 18 09:13:00 +0000 2023,"['fashion', 'collection']",['generated'],['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-18 09:13:00,fashion ,fashion collection 
+Digital Art Fashion Prints,Tue Jul 18 09:13:00 +0000 2023,['prints'],"['digital', 'fashion']",['art'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-18 09:13:00,fashion ,prints 
+High-Concept Fashion Accessories,Tue Jul 18 09:13:00 +0000 2023,['accessories'],"['high', 'concept']",[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-18 09:13:00,fashion accessories ,accessories 
+fashion photography backdrop,Thu Jul 20 20:19:12 +0000 2023,['backdrop'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-20 20:19:12,fashion ,backdrop 
+fashion magazine subscription,Thu Jul 20 20:19:12 +0000 2023,['magazine'],"['fashion', 'subscription']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-20 20:19:12,fashion ,magazine 
+Fashion Designer Fabrics,Thu Jul 20 15:14:06 +0000 2023,['fabrics'],['fashion'],[],[],[],[],[],['designer'],[],[],[],[],[],[],[],[],[],2023-07-20 15:14:06,fashion ,fabrics 
+designer fashion clothing,Fri Jul 21 14:01:23 +0000 2023,['clothing'],"['designer', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-21 14:01:23,fashion ,clothing 
+fashion illustration prints,Fri Jul 21 14:01:23 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-07-21 14:01:23,fashion ,prints 
+Fashion Is My Passion Apparel,Fri Jul 21 04:35:09 +0000 2023,['apparel'],[],"['fashion', 'my', 'passion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-21 04:35:09,fashion ,apparel 
+Fashion Accessories,Fri Jul 21 04:35:09 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-21 04:35:09,fashion accessories ,accessories 
+fashion hats,Fri Jul 21 10:56:25 +0000 2023,['hats'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-21 10:56:25,fashion ,hats 
+fashion photoshoots,Fri Jul 21 10:56:25 +0000 2023,[],['fashion'],[],[],['photoshoots'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-21 10:56:25,fashion ,
+Fashion Fabrics for Designers,Thu Jul 20 15:14:08 +0000 2023,['fabrics'],['fashion'],[],['designers'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-20 15:14:08,fashion ,fabrics 
+Fashion Design Materials,Thu Jul 20 15:14:08 +0000 2023,[],['fashion'],[],[],[],[],[],['design'],[],[],[],[],[],[],[],[],[],2023-07-20 15:14:08,fashion ,
+women's summer accessories,Thu Jul 20 19:34:16 +0000 2023,['accessories'],[],[],"['women', ""'"", 's']",['summer'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-20 19:34:16,accessories ,accessories 
+Fashion Blogger Merchandise,Tue Jul 11 13:22:13 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-07-11 13:22:13,fashion ,merchandise 
+Fashion Apparel,Wed Jul 12 02:47:16 +0000 2023,[],['fashion'],[],['apparel'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-12 02:47:16,fashion ,
+Fashion Blogger Merchandise,Wed Jul 12 02:47:16 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-07-12 02:47:16,fashion ,merchandise 
+fashion photography prints,Tue Jul 11 13:09:45 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-11 13:09:45,fashion ,prints 
+Second Life fashion accessories,Thu Jul 13 15:18:22 +0000 2023,['accessories'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-13 15:18:22,fashion accessories ,accessories 
+fashion accessories,Wed Jul 12 13:17:55 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-12 13:17:55,fashion accessories ,accessories 
+Fashion Gloves,Thu Jul 13 16:10:18 +0000 2023,['gloves'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-13 16:10:18,fashion ,gloves 
+Alternative Fashion Accessories,Thu Jul 13 16:10:18 +0000 2023,['accessories'],['alternative'],[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-13 16:10:18,fashion accessories ,accessories 
+Fashion Crop Top,Thu Jul 13 13:47:03 +0000 2023,"['crop', 'top']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-13 13:47:03,fashion ,crop top 
+fashion accessories for couples,Tue Jul 11 12:14:00 +0000 2023,['accessories'],['fashion'],[],['couples'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-11 12:14:00,fashion accessories ,accessories 
+Losode fashion suit,Tue Jul 11 11:03:27 +0000 2023,['suit'],['fashion'],['losode'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-11 11:03:27,fashion ,suit 
+fashion accessories for work,Tue Jul 11 11:03:27 +0000 2023,['accessories'],['fashion'],[],[],['work'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-11 11:03:27,fashion accessories ,accessories 
+Fashion Accessories,Thu Jul 13 19:11:19 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-13 19:11:19,fashion accessories ,accessories 
+Sustainable Fashion Items,Thu Jul 13 19:11:19 +0000 2023,['items'],['sustainable'],[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-13 19:11:19,fashion ,items 
+Discounted Fashion Items,Wed Jul 12 12:52:03 +0000 2023,['items'],"['discounted', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-12 12:52:03,fashion ,items 
+Fashion Designer Men's Apparel,Thu Jul 13 01:38:20 +0000 2023,['apparel'],['fashion'],['designer'],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-07-13 01:38:20,fashion ,apparel 
+Fashion Forward Dress,Thu Jul 13 09:15:19 +0000 2023,['dress'],['fashion'],[],[],[],[],[],['forward'],[],[],[],[],[],[],[],[],[],2023-07-13 09:15:19,fashion ,dress 
+fashion jewelry,Sun Oct 29 15:03:43 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-29 15:03:43,fashion ,jewelry 
+fashion accessories,Mon Oct 30 06:22:01 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-30 06:22:01,fashion accessories ,accessories 
+Second Life Fashion Clothing,Sun Oct 29 11:13:17 +0000 2023,['clothing'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-29 11:13:17,fashion ,clothing 
+Second Life Avatar Accessories,Sun Oct 29 11:13:17 +0000 2023,['accessories'],[],"['second', 'avatar']",[],[],[],[],['life'],[],[],[],[],[],[],[],[],[],2023-10-29 11:13:17,accessories ,accessories 
+Fashion Illustration Prints,Mon Oct 30 17:34:59 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-10-30 17:34:59,fashion ,prints 
+Designer Fashion Sketchbooks,Mon Oct 30 17:34:59 +0000 2023,['sketchbooks'],"['designer', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-30 17:34:59,fashion ,sketchbooks 
+Fashion Style Guides,Mon Oct 30 17:34:59 +0000 2023,['guides'],['fashion'],[],[],[],[],[],['style'],[],[],[],[],[],[],[],[],[],2023-10-30 17:34:59,fashion ,guides 
+wedding accessories,Mon Oct 30 07:55:02 +0000 2023,['accessories'],[],[],[],['wedding'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-30 07:55:02,accessories ,accessories 
+virtual fashion accessories,Fri Oct 27 16:38:37 +0000 2023,['accessories'],"['virtual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-27 16:38:37,fashion accessories ,accessories 
+fashion blogger merchandise,Sun Oct 29 08:42:02 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-10-29 08:42:02,fashion ,merchandise 
+fashion accessories,Sun Oct 29 08:42:02 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-29 08:42:02,fashion accessories ,accessories 
+fashion art magazines,Thu Oct 26 07:36:21 +0000 2023,"['art', 'magazines']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-26 07:36:21,fashion ,art magazines 
+fashion sketchbook,Sun Oct 29 13:20:19 +0000 2023,['sketchbook'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-29 13:20:19,fashion ,sketchbook 
+fashion illustration tools,Sun Oct 29 13:20:19 +0000 2023,['tools'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-10-29 13:20:19,fashion ,tools 
+fashion design textbooks,Sat Oct 28 13:02:52 +0000 2023,['textbooks'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-28 13:02:52,fashion ,textbooks 
+online fashion courses,Sat Oct 28 13:02:52 +0000 2023,['courses'],['online'],[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-28 13:02:52,fashion ,courses 
+fashion illustration supplies,Sat Oct 28 13:02:52 +0000 2023,['supplies'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-10-28 13:02:52,fashion ,supplies 
+fashion design software,Sat Oct 28 13:02:52 +0000 2023,['fashion'],[],[],[],[],[],[],"['design', 'software']",[],[],[],[],[],[],[],[],[],2023-10-28 13:02:52,fashion ,fashion 
+personalized fashion consultations,Sun Oct 29 13:40:42 +0000 2023,[],['personalized'],[],[],['fashion'],[],[],['consultations'],[],[],[],[],[],[],[],[],[],2023-10-29 13:40:42,fashion ,
+customized fashion items,Sun Oct 29 13:40:42 +0000 2023,['items'],['customized'],[],[],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-29 13:40:42,fashion ,items 
+fashion week tickets,Sun Oct 29 13:40:42 +0000 2023,['tickets'],[],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-10-29 13:40:42,fashion ,tickets 
+fall fashion accessories,Mon Oct 30 05:42:49 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],['fall'],[],[],[],[],[],2023-10-30 05:42:49,fashion accessories ,accessories 
+fashion blogger merchandise,Mon Oct 30 05:42:49 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-10-30 05:42:49,fashion ,merchandise 
+fashion sneakers,Mon Oct 23 11:14:30 +0000 2023,['sneakers'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-23 11:14:30,fashion ,sneakers 
+Fashion Style T-Shirts,Thu Oct 26 02:05:20 +0000 2023,"['t', 'shirts']","['fashion', 'style']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-26 02:05:20,fashion ,t shirts 
+fashion model portfolio,Wed Oct 25 11:18:09 +0000 2023,[],['fashion'],[],['model'],[],[],[],['portfolio'],[],[],[],[],[],[],[],[],[],2023-10-25 11:18:09,fashion ,
+fashion jeans,Tue Oct 24 16:32:58 +0000 2023,['jeans'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-24 16:32:58,fashion ,jeans 
+SL fashion accessories,Tue Oct 24 13:49:33 +0000 2023,['accessories'],['fashion'],['sl'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-24 13:49:33,fashion accessories ,accessories 
+bridal accessories,Wed Oct 25 20:27:49 +0000 2023,['accessories'],[],[],[],['bridal'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-25 20:27:49,accessories ,accessories 
+fashion show tickets,Wed Oct 25 20:27:49 +0000 2023,['tickets'],[],[],[],"['fashion', 'show']",[],[],[],[],[],[],[],[],[],[],[],[],2023-10-25 20:27:49,fashion ,tickets 
+fashion jewelry,Wed Oct 25 20:29:58 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-25 20:29:58,fashion ,jewelry 
+Dress-up Accessories,Sun Oct 22 14:56:18 +0000 2023,"['dress', 'accessories']",[],[],[],['up'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-22 14:56:18,accessories ,dress accessories 
+"Fashion Accessories (Hats, Canes)",Mon Oct 16 12:28:24 +0000 2023,"['accessories', 'hats', 'canes']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-16 12:28:24,fashion accessories ,accessories hats canes 
+fashion bracelets,Tue Oct 17 15:32:16 +0000 2023,['bracelets'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-17 15:32:16,fashion ,bracelets 
+kawaii accessories,Mon Oct 16 15:24:09 +0000 2023,['accessories'],[],[],[],[],['kawaii'],[],[],[],[],[],[],[],[],[],[],[],2023-10-16 15:24:09,accessories ,accessories 
+AI-generated fashion art prints,Mon Oct 16 15:24:09 +0000 2023,"['art', 'prints']","['generated', 'fashion']",['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-16 15:24:09,fashion ,art prints 
+Retro Accessories,Sun Oct 15 08:40:31 +0000 2023,['accessories'],['retro'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-15 08:40:31,accessories ,accessories 
+bridal accessories,Wed Oct 18 07:21:28 +0000 2023,['accessories'],[],[],[],['bridal'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-18 07:21:28,accessories ,accessories 
+Second Life Fashion Accessories,Tue Oct 17 13:52:46 +0000 2023,['accessories'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-17 13:52:46,fashion accessories ,accessories 
+Bridal Accessories,Mon Oct 16 22:03:57 +0000 2023,['accessories'],[],[],[],['bridal'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-16 22:03:57,accessories ,accessories 
+Fashion Model Photo Shoot Package,Mon Oct 16 22:03:57 +0000 2023,['package'],['fashion'],[],['model'],"['photo', 'shoot']",[],[],[],[],[],[],[],[],[],[],[],[],2023-10-16 22:03:57,fashion ,package 
+bridal accessories,Mon Oct 16 22:33:27 +0000 2023,['accessories'],[],[],[],['bridal'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-16 22:33:27,accessories ,accessories 
+Roberto Cavalli Accessories,Wed Oct 18 10:14:14 +0000 2023,['accessories'],[],"['roberto', 'cavalli']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-18 10:14:14,accessories ,accessories 
+Roberto Cavalli Fashion Sketchbook,Wed Oct 18 10:14:14 +0000 2023,['sketchbook'],['fashion'],"['roberto', 'cavalli']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-18 10:14:14,fashion ,sketchbook 
+Fashion hats,Wed Oct 18 09:14:31 +0000 2023,['hats'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-18 09:14:31,fashion ,hats 
+Bridal flower accessories,Tue Oct 17 09:57:18 +0000 2023,['accessories'],['flower'],[],[],['bridal'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-17 09:57:18,accessories ,accessories 
+floral fashion accessories,Tue Oct 17 09:57:18 +0000 2023,['accessories'],['fashion'],[],[],[],['floral'],[],[],[],[],[],[],[],[],[],[],[],2023-10-17 09:57:18,fashion accessories ,accessories 
+Shiny Black Fashion Boots,Mon Oct 16 18:03:19 +0000 2023,['boots'],"['shiny', 'fashion']",[],[],[],['black'],[],[],[],[],[],[],[],[],[],[],[],2023-10-16 18:03:19,fashion ,boots 
+fashion accessories,Tue Oct 17 08:14:17 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-17 08:14:17,fashion accessories ,accessories 
+Fashion Blogger Merchandise,Sun Oct 15 13:59:11 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-10-15 13:59:11,fashion ,merchandise 
+Fashion Accessories in Pink,Sun Oct 15 13:59:11 +0000 2023,['accessories'],['fashion'],[],[],[],['pink'],[],[],[],[],[],[],[],[],[],[],[],2023-10-15 13:59:11,fashion accessories ,accessories 
+fashion layer top,Tue Oct 17 05:37:50 +0000 2023,['top'],['fashion'],[],[],[],[],[],['layer'],[],[],[],[],[],[],[],[],[],2023-10-17 05:37:50,fashion ,top 
+trending fashion apparel,Mon Oct 16 10:31:39 +0000 2023,['apparel'],"['trending', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-16 10:31:39,fashion ,apparel 
+DRACH Fashion Accessories,Mon Oct 16 17:17:20 +0000 2023,['accessories'],['fashion'],['drach'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-16 17:17:20,fashion accessories ,accessories 
+AI-generated fashion prints,Tue Oct 17 06:05:23 +0000 2023,['prints'],"['generated', 'fashion']",['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-17 06:05:23,fashion ,prints 
+fashion photography books,Tue Oct 17 06:05:23 +0000 2023,['books'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-17 06:05:23,fashion ,books 
+bridal accessories,Sat Oct 14 16:47:11 +0000 2023,['accessories'],[],[],[],['bridal'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-14 16:47:11,accessories ,accessories 
+fashion lookbooks,Sat Oct 14 16:47:11 +0000 2023,['lookbooks'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-14 16:47:11,fashion ,lookbooks 
+fashion photography prints,Thu Oct 12 13:02:58 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-12 13:02:58,fashion ,prints 
+fashion accessories,Thu Oct 12 13:02:58 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-12 13:02:58,fashion accessories ,accessories 
+trendy fashion accessories,Fri Oct 13 16:09:56 +0000 2023,['accessories'],"['trendy', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-13 16:09:56,fashion accessories ,accessories 
+fashion blazer,Sat Oct 14 23:58:13 +0000 2023,['blazer'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-14 23:58:13,fashion ,blazer 
+fashion accessories,Fri Oct 13 19:23:32 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-13 19:23:32,fashion accessories ,accessories 
+high-fashion shoes,Fri Oct 13 19:23:32 +0000 2023,['shoes'],"['high', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-13 19:23:32,fashion ,shoes 
+plant-based fashion items,Sun Oct 15 04:03:03 +0000 2023,"['fashion', 'items']","['plant', 'based']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-15 04:03:03,fashion ,fashion items 
+fashion model apparel,Sun Oct 15 04:03:03 +0000 2023,['apparel'],['fashion'],[],['model'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-15 04:03:03,fashion ,apparel 
+fashion illustration prints,Thu Oct 12 05:05:47 +0000 2023,['prints'],['fashion'],[],[],[],[],[],['illustration'],[],[],[],[],[],[],[],[],[],2023-10-12 05:05:47,fashion ,prints 
+fashion accessories,Thu Oct 12 05:05:47 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-12 05:05:47,fashion accessories ,accessories 
+Fashion Style Lookbook,Wed Oct 11 03:58:42 +0000 2023,['lookbook'],"['fashion', 'style']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-11 03:58:42,fashion ,lookbook 
+Fashion Photography Services,Tue Oct 10 08:36:56 +0000 2023,['photography'],['fashion'],['services'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-10 08:36:56,fashion ,photography 
+fashion accessories with NFTs,Tue Oct 10 09:05:47 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],['nfts'],[],[],[],[],[],[],[],[],[],2023-10-10 09:05:47,fashion accessories ,accessories 
+Marks and Spencer fashion accessories,Tue Oct 10 09:26:42 +0000 2023,['accessories'],['fashion'],"['marks', 'and', 'spencer']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-10 09:26:42,fashion accessories ,accessories 
+90s Fashion Inspired Suit,Tue Oct 10 10:37:54 +0000 2023,['suit'],"['fashion', 'inspired']",[],[],[],[],[],[],[],[],[],['90s'],[],[],[],[],[],2023-10-10 10:37:54,fashion ,suit 
+Pep Guardiola Fashion Collection,Tue Oct 10 10:37:54 +0000 2023,[],['fashion'],"['pep', 'guardiola']",[],[],[],[],['collection'],[],[],[],[],[],[],[],[],[],2023-10-10 10:37:54,fashion ,
+Fashion Blogger Apparel,Tue Oct 10 18:28:01 +0000 2023,['apparel'],['fashion'],['blogger'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-10-10 18:28:01,fashion ,apparel 
+Fashion Designer Apparel,Wed Mar 29 11:35:02 +0000 2023,['apparel'],"['fashion', 'designer']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-29 11:35:02,fashion ,apparel 
+Fashion Dresses,Wed Mar 29 23:29:16 +0000 2023,['dresses'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-29 23:29:16,fashion ,dresses 
+fashion designer merchandise,Wed Mar 29 08:00:38 +0000 2023,['merchandise'],"['fashion', 'designer']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-29 08:00:38,fashion ,merchandise 
+trendsetting accessories,Thu Mar 30 08:57:33 +0000 2023,"['trendsetting', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-30 08:57:33,accessories ,trendsetting accessories 
+Fashion Graphic Tee,Thu Mar 30 09:00:23 +0000 2023,['tee'],"['fashion', 'graphic']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-30 09:00:23,fashion ,tee 
+Fashion Illustration Book,Thu Mar 30 09:00:23 +0000 2023,['book'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-30 09:00:23,fashion ,book 
+Hanfu accessories,Wed Mar 29 16:48:49 +0000 2023,['accessories'],[],['hanfu'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-29 16:48:49,accessories ,accessories 
+fashion styling books,Wed Mar 29 16:48:49 +0000 2023,['books'],['fashion'],[],[],[],[],[],['styling'],[],[],[],[],[],[],[],[],[],2023-03-29 16:48:49,fashion ,books 
+Fashion Sunglasses,Tue Mar 28 19:32:25 +0000 2023,['sunglasses'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-28 19:32:25,fashion ,sunglasses 
+Penda Fashion Apparel,Wed Mar 29 09:21:28 +0000 2023,['apparel'],['fashion'],['penda'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-29 09:21:28,fashion ,apparel 
+Penda Accessories,Wed Mar 29 09:21:28 +0000 2023,['accessories'],[],['penda'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-29 09:21:28,accessories ,accessories 
+Fashion Stylist Game app,Thu Mar 30 09:03:26 +0000 2023,['game'],['fashion'],[],[],[],[],[],"['stylist', 'app']",[],[],[],[],[],[],[],[],[],2023-03-30 09:03:26,fashion ,game 
+digital fashion accessories,Thu Mar 30 09:03:26 +0000 2023,['accessories'],"['digital', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-30 09:03:26,fashion accessories ,accessories 
+Fashion Show Merchandise,Tue Mar 28 18:18:44 +0000 2023,['merchandise'],['fashion'],[],[],['show'],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-28 18:18:44,fashion ,merchandise 
+Fashion Week Apparel,Tue Mar 28 18:18:44 +0000 2023,['apparel'],[],['fashion'],[],['week'],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-28 18:18:44,fashion ,apparel 
+ankara fashion pieces,Thu Mar 30 17:12:13 +0000 2023,['pieces'],['fashion'],[],[],[],[],[],[],[],['ankara'],[],[],[],[],[],[],[],2023-03-30 17:12:13,fashion ,pieces 
+fashion accessories,Thu Mar 30 17:12:13 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-30 17:12:13,fashion accessories ,accessories 
+Kareena Kapoor Fashion Collection,Thu Mar 30 05:55:28 +0000 2023,['collection'],['fashion'],"['kareena', 'kapoor']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-30 05:55:28,fashion ,collection 
+Women's Fashion Dresses,Thu Mar 30 05:55:28 +0000 2023,['dresses'],['fashion'],[],"['women', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-30 05:55:28,fashion ,dresses 
+Fashion Accessories,Thu Mar 30 05:55:28 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-30 05:55:28,fashion accessories ,accessories 
+Fashion Photography Book,Wed Mar 29 21:30:07 +0000 2023,['book'],['fashion'],[],[],[],[],[],['photography'],[],[],[],[],[],[],[],[],[],2023-03-29 21:30:07,fashion ,book 
+Men's Fashion Accessories,Wed Mar 29 21:30:07 +0000 2023,['accessories'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-29 21:30:07,fashion accessories ,accessories 
+spring fashion accessories,Wed Mar 29 07:51:41 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],['spring'],[],[],[],[],[],2023-03-29 07:51:41,fashion accessories ,accessories 
+fashion apparel from ThreadBeast,Thu Mar 30 22:08:05 +0000 2023,['apparel'],['fashion'],['threadbeast'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-30 22:08:05,fashion ,apparel 
+fashion photography prints,Sun Mar 26 14:14:45 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 14:14:45,fashion ,prints 
+men's fashion apparel,Sun Mar 26 13:03:23 +0000 2023,['apparel'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 13:03:23,fashion ,apparel 
+Luxury Fashion Accessories,Sun Mar 26 09:10:12 +0000 2023,['accessories'],"['luxury', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 09:10:12,fashion accessories ,accessories 
+Fashion Waist Clip,Thu Mar 23 22:45:14 +0000 2023,"['waist', 'clip']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-23 22:45:14,fashion ,waist clip 
+Thierry Mugler Fashion Collection,Mon Mar 27 08:10:29 +0000 2023,[],['fashion'],"['thierry', 'mugler']",[],[],[],[],['collection'],[],[],[],[],[],[],[],[],[],2023-03-27 08:10:29,fashion ,
+fashion photography prints,Sun Mar 26 23:17:14 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 23:17:14,fashion ,prints 
+fashion magazines,Sun Mar 26 23:17:14 +0000 2023,['magazines'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 23:17:14,fashion ,magazines 
+Fashion Designer Fabrics,Sun Mar 26 18:11:33 +0000 2023,['fabrics'],['fashion'],[],[],[],[],[],['designer'],[],[],[],[],[],[],[],[],[],2023-03-26 18:11:33,fashion ,fabrics 
+fashion designer merchandise,Sun Mar 26 19:02:59 +0000 2023,['merchandise'],"['fashion', 'designer']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 19:02:59,fashion ,merchandise 
+luxury fashion accessories,Sun Mar 26 19:02:59 +0000 2023,['accessories'],"['luxury', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 19:02:59,fashion accessories ,accessories 
+Fashion Fabrics for Designers,Sun Mar 26 16:08:33 +0000 2023,['fabrics'],['fashion'],[],['designers'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 16:08:33,fashion ,fabrics 
+fashion clothing set for models,Sun Mar 26 12:07:41 +0000 2023,"['clothing', 'set']",['fashion'],[],['models'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 12:07:41,fashion ,clothing set 
+fashion accessories for models,Sun Mar 26 12:07:41 +0000 2023,['accessories'],['fashion'],[],['models'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 12:07:41,fashion accessories ,accessories 
+Fashion Fabrics for Shirts,Sun Mar 26 15:22:33 +0000 2023,['shirts'],['fashion'],[],[],[],[],['fabrics'],[],[],[],[],[],[],[],[],[],[],2023-03-26 15:22:33,fashion ,shirts 
+Aala Fashion Fabrics,Sun Mar 26 15:22:33 +0000 2023,['fabrics'],['fashion'],['aala'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 15:22:33,fashion ,fabrics 
+Fashion Streetwear Hoodie,Sun Mar 26 17:21:44 +0000 2023,['hoodie'],[],"['fashion', 'streetwear']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 17:21:44,fashion ,hoodie 
+religious-themed accessories,Sun Mar 26 22:31:05 +0000 2023,['accessories'],"['religious', '-', 'themed']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 22:31:05,accessories ,accessories 
+fashion photography guide,Sun Mar 26 14:30:00 +0000 2023,['guide'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 14:30:00,fashion ,guide 
+fashion week merchandise,Sun Mar 26 14:30:00 +0000 2023,['merchandise'],[],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 14:30:00,fashion ,merchandise 
+Fashion Designer Collection,Sun Mar 26 09:20:34 +0000 2023,['collection'],['fashion'],['designer'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-26 09:20:34,fashion ,collection 
+Mary Wyatt fashion items,Wed Mar 22 19:03:04 +0000 2023,['items'],['fashion'],"['mary', 'wyatt']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-22 19:03:04,fashion ,items 
+fashion sandals,Wed Mar 22 21:18:11 +0000 2023,['sandals'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-22 21:18:11,fashion ,sandals 
+Fashion Influencer Merchandise,Wed Mar 22 04:28:19 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['influencer'],[],[],[],[],[],[],[],[],[],2023-03-22 04:28:19,fashion ,merchandise 
+Accessories for Small Bust Styles,Wed Mar 22 04:28:19 +0000 2023,"['accessories', 'bust', 'styles']",[],[],[],[],[],[],[],[],[],['small'],[],[],[],[],[],[],2023-03-22 04:28:19,accessories ,accessories bust styles 
+fashion photography book,Tue Mar 21 17:35:46 +0000 2023,['book'],['fashion'],[],[],[],[],[],['photography'],[],[],[],[],[],[],[],[],[],2023-03-21 17:35:46,fashion ,book 
+Fashion Fedora,Wed Mar 22 07:36:23 +0000 2023,['fedora'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-22 07:36:23,fashion ,fedora 
+Mojo Market fashion items,Tue Mar 21 16:46:36 +0000 2023,['items'],['fashion'],"['mojo', 'market']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-21 16:46:36,fashion ,items 
+fashion photoshoot accessories,Tue Mar 21 14:54:41 +0000 2023,['accessories'],['fashion'],[],[],['photoshoot'],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-21 14:54:41,fashion accessories ,accessories 
+fashion model merchandise,Tue Mar 21 14:54:41 +0000 2023,['merchandise'],['fashion'],[],['model'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-21 14:54:41,fashion ,merchandise 
+Kids Fashion Collection Size Range: 4-14,Thu Mar 23 19:13:54 +0000 2023,[],['fashion'],[],"['kids', '4', '14']",[],[],[],['collection'],[],[],['size'],[],[],[],[],[],[],2023-03-23 19:13:54,fashion ,
+fashion accessories,Wed Mar 22 09:30:01 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-22 09:30:01,fashion accessories ,accessories 
+fashion lookbook,Tue Mar 21 17:57:57 +0000 2023,['lookbook'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-21 17:57:57,fashion ,lookbook 
+high fashion shoes,Tue Mar 21 17:57:57 +0000 2023,['shoes'],"['high', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-21 17:57:57,fashion ,shoes 
+photoshoot accessories,Tue Mar 21 17:57:57 +0000 2023,['accessories'],[],[],[],['photoshoot'],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-21 17:57:57,accessories ,accessories 
+fashion jewelry,Thu Mar 23 08:39:37 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-23 08:39:37,fashion ,jewelry 
+Fashion Flip Flops,Wed Mar 22 16:01:24 +0000 2023,"['flip', 'flops']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-22 16:01:24,fashion ,flip flops 
+Fashion Accessories,Thu Mar 23 22:30:07 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-23 22:30:07,fashion accessories ,accessories 
+Fashion Accessories for Sarees,Wed Mar 22 12:25:16 +0000 2023,"['accessories', 'sarees']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-22 12:25:16,fashion accessories ,accessories sarees 
+Upright Bass Accessories,Tue Mar 21 12:59:07 +0000 2023,"['upright', 'bass', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-21 12:59:07,accessories ,upright bass accessories 
+Men's Fashion Accessories,Sat Mar 18 04:50:02 +0000 2023,['accessories'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-18 04:50:02,fashion accessories ,accessories 
+fashion accessories,Sat Mar 18 15:00:04 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-18 15:00:04,fashion accessories ,accessories 
+fashion accessories,Sun Mar 19 14:41:41 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-19 14:41:41,fashion accessories ,accessories 
+Music-themed accessories,Mon Mar 20 15:07:24 +0000 2023,['accessories'],"['music', '-', 'themed']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-20 15:07:24,accessories ,accessories 
+virtual accessories,Mon Mar 20 15:53:50 +0000 2023,"['virtual', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-20 15:53:50,accessories ,virtual accessories 
+Second Life fashion top,Sun Mar 19 11:41:45 +0000 2023,['top'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-19 11:41:45,fashion ,top 
+Luxury Fashion Shoes,Mon Mar 20 15:32:12 +0000 2023,['shoes'],"['luxury', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-20 15:32:12,fashion ,shoes 
+boohooMAN Men's Fashion Items,Tue Mar 21 12:31:42 +0000 2023,['items'],['fashion'],['boohooman'],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-21 12:31:42,fashion ,items 
+digital fashion collections,Mon Mar 20 17:41:41 +0000 2023,[],"['digital', 'fashion']",[],[],[],[],[],['collections'],[],[],[],[],[],[],[],[],[],2023-03-20 17:41:41,fashion ,
+NFT fashion collectibles,Mon Mar 20 17:41:41 +0000 2023,[],['fashion'],['nft'],[],[],[],[],['collectibles'],[],[],[],[],[],[],[],[],[],2023-03-20 17:41:41,fashion ,
+high fashion garments,Mon Mar 20 17:41:41 +0000 2023,['garments'],"['high', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-20 17:41:41,fashion ,garments 
+fashion accessories inspired by digital art,Mon Mar 20 17:41:41 +0000 2023,['accessories'],"['fashion', 'inspired']",[],[],[],[],[],['digital'],[],[],[],[],[],[],[],[],[],2023-03-20 17:41:41,fashion accessories ,accessories 
+rave accessories,Sat Mar 18 18:01:39 +0000 2023,['accessories'],['rave'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-18 18:01:39,accessories ,accessories 
+fashion accessories,Sat Mar 18 15:34:12 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-18 15:34:12,fashion accessories ,accessories 
+Layered Fashion Ensemble,Tue Mar 21 05:39:17 +0000 2023,[],"['layered', 'fashion']",[],[],[],[],[],['ensemble'],[],[],[],[],[],[],[],[],[],2023-03-21 05:39:17,fashion ,
+Quilted Fashion Accessories,Tue Mar 21 05:39:17 +0000 2023,['accessories'],"['quilted', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-21 05:39:17,fashion accessories ,accessories 
+Fashion Footwear,Tue Mar 21 05:39:17 +0000 2023,['footwear'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-21 05:39:17,fashion ,footwear 
+runway fashion outfits,Sat Mar 18 14:58:48 +0000 2023,['outfits'],['fashion'],[],[],['runway'],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-18 14:58:48,fashion ,outfits 
+fashion show audition tips guide,Sat Mar 18 14:58:48 +0000 2023,"['tips', 'guide']",[],[],[],['fashion'],[],[],"['show', 'audition']",[],[],[],[],[],[],[],[],[],2023-03-18 14:58:48,fashion ,tips guide 
+event tickets for fashion shows,Sat Mar 18 14:58:48 +0000 2023,['tickets'],[],[],[],"['event', 'fashion', 'shows']",[],[],[],[],[],[],[],[],[],[],[],[],2023-03-18 14:58:48,fashion ,tickets 
+fashion styling services,Sat Mar 18 14:58:48 +0000 2023,"['styling', 'services']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-18 14:58:48,fashion ,styling services 
+Fashion Leggings,Mon Mar 20 22:27:00 +0000 2023,['leggings'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-20 22:27:00,fashion ,leggings 
+Men's Fashion Accessories,Sun Mar 19 21:30:08 +0000 2023,['accessories'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-19 21:30:08,fashion accessories ,accessories 
+fashion apparel,Fri Mar 17 07:21:26 +0000 2023,[],['fashion'],[],['apparel'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-17 07:21:26,fashion ,
+Designer Fashion Sandals,Fri Mar 17 11:49:22 +0000 2023,['sandals'],"['designer', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-17 11:49:22,fashion ,sandals 
+Fashion Cap,Wed Mar 15 18:34:09 +0000 2023,['cap'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-15 18:34:09,fashion ,cap 
+Fashion Hoodies,Thu Mar 16 07:36:41 +0000 2023,['hoodies'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-16 07:36:41,fashion ,hoodies 
+fashion blogger merchandise,Fri Mar 17 16:33:45 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-03-17 16:33:45,fashion ,merchandise 
+Stylish Accessories,Thu Mar 16 04:33:46 +0000 2023,['accessories'],['stylish'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-16 04:33:46,accessories ,accessories 
+Fashion Lookbook,Thu Mar 16 04:33:46 +0000 2023,['lookbook'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-16 04:33:46,fashion ,lookbook 
+Second Life fashion accessories,Wed Mar 15 23:46:46 +0000 2023,['accessories'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-15 23:46:46,fashion accessories ,accessories 
+fashion sensory guide,Tue Mar 14 19:33:54 +0000 2023,[],['fashion'],[],[],[],[],[],"['sensory', 'guide']",[],[],[],[],[],[],[],[],[],2023-03-14 19:33:54,fashion ,
+fashion accessories,Thu Mar 16 06:34:42 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-16 06:34:42,fashion accessories ,accessories 
+fashion jewelry,Fri Mar 17 12:45:35 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-17 12:45:35,fashion ,jewelry 
+fashion try-on clothing,Fri Mar 17 07:41:58 +0000 2023,['clothing'],['fashion'],[],[],[],[],[],['try'],[],[],[],[],[],[],[],[],[],2023-03-17 07:41:58,fashion ,clothing 
+boohooMAN accessories,Fri Mar 17 07:41:58 +0000 2023,[],[],"['boohooman', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-17 07:41:58,accessories ,
+Fashion Fabrics,Fri Mar 17 21:22:15 +0000 2023,['fabrics'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-17 21:22:15,fashion ,fabrics 
+Fashion Fabrics for Designers,Fri Mar 17 21:22:08 +0000 2023,['fabrics'],['fashion'],[],['designers'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-17 21:22:08,fashion ,fabrics 
+Men's Fashion Sneakers,Thu Mar 16 21:30:08 +0000 2023,['sneakers'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-03-16 21:30:08,fashion ,sneakers 
+men's fashion jackets,Sat Feb 25 08:13:53 +0000 2023,['jackets'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-25 08:13:53,fashion ,jackets 
+Men's Fashion Accessories,Fri Feb 24 14:35:02 +0000 2023,['accessories'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-24 14:35:02,fashion accessories ,accessories 
+fashion photography prints,Fri Feb 24 17:33:49 +0000 2023,['prints'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-24 17:33:49,fashion ,prints 
+fashion accessories,Fri Feb 24 17:33:49 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-24 17:33:49,fashion accessories ,accessories 
+fashion accessories in black and white,Fri Feb 24 16:32:38 +0000 2023,['accessories'],['fashion'],[],[],[],"['black', 'white']",[],[],[],[],[],[],[],[],[],[],[],2023-02-24 16:32:38,fashion accessories ,accessories 
+Fashion Designer Men's Beach Shirt,Fri Feb 24 18:32:17 +0000 2023,['shirt'],['fashion'],['designer'],"['men', ""'"", 's']",['beach'],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-24 18:32:17,fashion ,shirt 
+digital fashion collectibles,Wed Feb 22 20:23:09 +0000 2023,[],"['digital', 'fashion']",[],[],[],[],[],['collectibles'],[],[],[],[],[],[],[],[],[],2023-02-22 20:23:09,fashion ,
+3D printed fashion accessories,Wed Feb 22 20:23:09 +0000 2023,['accessories'],"['3d', 'printed', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-22 20:23:09,fashion accessories ,accessories 
+AI-generated fashion art,Wed Feb 22 20:23:09 +0000 2023,"['fashion', 'art']",['generated'],['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-22 20:23:09,fashion ,fashion art 
+virtual reality fashion accessories,Fri Feb 24 17:04:58 +0000 2023,['accessories'],[],[],[],['fashion'],[],[],"['virtual', 'reality']",[],[],[],[],[],[],[],[],[],2023-02-24 17:04:58,fashion accessories ,accessories 
+SL fashion poses,Fri Feb 24 17:04:58 +0000 2023,[],['fashion'],['sl'],[],[],[],[],['poses'],[],[],[],[],[],[],[],[],[],2023-02-24 17:04:58,fashion ,
+fashion hat,Sat Feb 25 06:25:01 +0000 2023,['hat'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-25 06:25:01,fashion ,hat 
+theatre-themed accessories,Sat Feb 25 06:25:01 +0000 2023,['accessories'],"['theatre', 'themed']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-25 06:25:01,accessories ,accessories 
+Fashion Fabrics,Fri Feb 24 15:03:35 +0000 2023,['fabrics'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-24 15:03:35,fashion ,fabrics 
+men's fashion accessories,Fri Feb 24 10:18:38 +0000 2023,['accessories'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-24 10:18:38,fashion accessories ,accessories 
+Fashion Sketchbook,Thu Feb 23 19:27:40 +0000 2023,['sketchbook'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-23 19:27:40,fashion ,sketchbook 
+Fashion Sunglasses,Fri Feb 24 21:12:55 +0000 2023,['sunglasses'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-24 21:12:55,fashion ,sunglasses 
+fashion accessories,Fri Feb 24 14:03:21 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-24 14:03:21,fashion accessories ,accessories 
+Max Fashion Dresses,Fri Feb 24 15:38:10 +0000 2023,['dresses'],['fashion'],['max'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-24 15:38:10,fashion ,dresses 
+Max Fashion Footwear,Fri Feb 24 15:38:10 +0000 2023,['footwear'],['fashion'],['max'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-24 15:38:10,fashion ,footwear 
+Max Fashion Handbags,Fri Feb 24 15:38:10 +0000 2023,['handbags'],['fashion'],['max'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-24 15:38:10,fashion ,handbags 
+Max Fashion Accessories,Fri Feb 24 15:38:10 +0000 2023,"['fashion', 'accessories']",[],[],[],[],[],[],['max'],[],[],[],[],[],[],[],[],[],2023-02-24 15:38:10,fashion accessories ,fashion accessories 
+digital fashion clothing,Thu Feb 23 23:16:08 +0000 2023,['clothing'],"['digital', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-23 23:16:08,fashion ,clothing 
+NFT fashion collectibles,Thu Feb 23 23:16:08 +0000 2023,[],['fashion'],['nft'],[],[],[],[],['collectibles'],[],[],[],[],[],[],[],[],[],2023-02-23 23:16:08,fashion ,
+AI-generated fashion prints,Thu Feb 23 23:16:08 +0000 2023,['prints'],"['generated', 'fashion']",['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-23 23:16:08,fashion ,prints 
+fashion week merchandise,Thu Feb 23 23:16:08 +0000 2023,['merchandise'],[],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-02-23 23:16:08,fashion ,merchandise 
+black and white fashion dresses,Thu Feb 23 23:16:08 +0000 2023,['dresses'],['fashion'],[],[],[],"['black', 'white']",[],[],[],[],[],[],[],[],[],[],[],2023-02-23 23:16:08,fashion ,dresses 
+aesthetic accessories,Fri Feb 24 21:07:49 +0000 2023,['accessories'],['aesthetic'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-24 21:07:49,accessories ,accessories 
+tights fashion accessories,Sun Feb 19 19:31:23 +0000 2023,['tights'],['fashion'],[],['accessories'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-19 19:31:23,fashion accessories ,tights 
+fashion-forward heels,Sat Feb 18 13:11:17 +0000 2023,['heels'],['fashion'],[],[],[],[],[],['forward'],[],[],[],[],[],[],[],[],[],2023-02-18 13:11:17,fashion ,heels 
+stylish accessories,Sat Feb 18 13:11:17 +0000 2023,['accessories'],['stylish'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-18 13:11:17,accessories ,accessories 
+fashion accessories for saree,Sat Feb 18 13:44:07 +0000 2023,['accessories'],['fashion'],[],['saree'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-18 13:44:07,fashion accessories ,accessories 
+Fashion Sneakers,Sat Feb 18 18:19:20 +0000 2023,['sneakers'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-18 18:19:20,fashion ,sneakers 
+Fashion Bags,Sat Feb 18 18:19:20 +0000 2023,['bags'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-18 18:19:20,fashion ,bags 
+fashion photography props,Sun Feb 19 08:11:30 +0000 2023,['props'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-19 08:11:30,fashion ,props 
+Nikon camera accessories,Sun Feb 19 08:11:30 +0000 2023,"['camera', 'accessories']",[],['nikon'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-19 08:11:30,accessories ,camera accessories 
+vintage fashion dresses,Sun Feb 19 08:11:30 +0000 2023,['dresses'],['fashion'],[],[],[],[],[],[],[],[],[],[],['vintage'],[],[],[],[],2023-02-19 08:11:30,fashion ,dresses 
+cane for fashion,Mon Feb 20 06:13:19 +0000 2023,['cane'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-20 06:13:19,fashion ,cane 
+men's fashion accessories,Mon Feb 20 06:51:23 +0000 2023,['accessories'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-20 06:51:23,fashion accessories ,accessories 
+Fashion Sneakers,Mon Feb 20 05:48:02 +0000 2023,['sneakers'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-20 05:48:02,fashion ,sneakers 
+NFT digital fashion items,Fri Feb 17 18:48:19 +0000 2023,['items'],"['digital', 'fashion']",['nft'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-17 18:48:19,fashion ,items 
+fashion-themed NFTs,Fri Feb 17 18:48:19 +0000 2023,['nfts'],"['fashion', '-', 'themed']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-17 18:48:19,fashion ,nfts 
+digital fashion artwork,Sun Feb 19 21:42:50 +0000 2023,['artwork'],"['digital', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-19 21:42:50,fashion ,artwork 
+NFT fashion collectibles,Sun Feb 19 21:42:50 +0000 2023,[],['fashion'],['nft'],[],[],[],[],['collectibles'],[],[],[],[],[],[],[],[],[],2023-02-19 21:42:50,fashion ,
+3D fashion design models,Sun Feb 19 21:42:50 +0000 2023,['models'],"['fashion', 'design']",[],[],[],['3d'],[],[],[],[],[],[],[],[],[],[],[],2023-02-19 21:42:50,fashion ,models 
+fashion-themed NFTs,Sun Feb 19 21:42:50 +0000 2023,['nfts'],"['fashion', '-', 'themed']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-19 21:42:50,fashion ,nfts 
+Men's Fashion Footwear,Mon Feb 20 05:44:16 +0000 2023,['footwear'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-20 05:44:16,fashion ,footwear 
+Fashion Week Madrid Merchandise,Sun Feb 19 15:31:14 +0000 2023,['merchandise'],[],[],[],"['fashion', 'week']",[],[],[],[],['madrid'],[],[],[],[],[],[],[],2023-02-19 15:31:14,fashion ,merchandise 
+Mercedes-Benz Fashion Week T-Shirts,Sun Feb 19 15:31:14 +0000 2023,"['t', 'shirts']",[],"['mercedes', 'benz']",[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-02-19 15:31:14,fashion ,t shirts 
+Fashion Jackets,Sun Feb 19 15:31:14 +0000 2023,['jackets'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-19 15:31:14,fashion ,jackets 
+Stylish Accessories,Sun Feb 19 15:31:14 +0000 2023,['accessories'],['stylish'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-19 15:31:14,accessories ,accessories 
+Fashion Photography Magazine Subscription,Mon Feb 20 00:00:59 +0000 2023,['magazine'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],['subscription'],[],[],[],[],2023-02-20 00:00:59,fashion ,magazine 
+Stylish Accessories for Men,Mon Feb 20 00:00:59 +0000 2023,['accessories'],['stylish'],[],['men'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-20 00:00:59,accessories ,accessories 
+Men's Fashion Lookbook,Mon Feb 20 00:00:59 +0000 2023,['lookbook'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-20 00:00:59,fashion ,lookbook 
+Fashion Editorial Prints,Mon Feb 20 00:00:59 +0000 2023,['prints'],['fashion'],['editorial'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-20 00:00:59,fashion ,prints 
+men's fashion accessories,Sun Feb 19 14:30:08 +0000 2023,['accessories'],['fashion'],[],"['men', ""'"", 's']",[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-19 14:30:08,fashion accessories ,accessories 
+fashion week tickets,Thu Feb 16 19:07:44 +0000 2023,['tickets'],[],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 19:07:44,fashion ,tickets 
+fashion accessories,Thu Feb 16 19:07:44 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 19:07:44,fashion accessories ,accessories 
+ZALIA fashion collection,Thu Feb 16 15:59:50 +0000 2023,[],['fashion'],['zalia'],[],[],[],[],['collection'],[],[],[],[],[],[],[],[],[],2023-02-16 15:59:50,fashion ,
+fashion photography services,Thu Feb 16 15:59:50 +0000 2023,['photography'],['fashion'],['services'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 15:59:50,fashion ,photography 
+modeling accessories,Thu Feb 16 15:59:50 +0000 2023,"['modeling', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 15:59:50,accessories ,modeling accessories 
+exclusive fashion outfits,Thu Feb 16 15:59:50 +0000 2023,['outfits'],"['exclusive', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 15:59:50,fashion ,outfits 
+NFT fashion artwork,Thu Feb 16 15:03:05 +0000 2023,['artwork'],['fashion'],['nft'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 15:03:05,fashion ,artwork 
+AI-generated fashion items,Thu Feb 16 15:03:05 +0000 2023,"['fashion', 'items']",['generated'],['ai'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 15:03:05,fashion ,fashion items 
+virtual fashion accessories,Thu Feb 16 15:03:05 +0000 2023,['accessories'],"['virtual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 15:03:05,fashion accessories ,accessories 
+fashion-themed NFTs,Thu Feb 16 15:03:05 +0000 2023,['nfts'],"['fashion', '-', 'themed']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 15:03:05,fashion ,nfts 
+Second Life fashion accessories,Thu Feb 16 17:20:46 +0000 2023,['accessories'],['fashion'],"['second', 'life']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 17:20:46,fashion accessories ,accessories 
+fashion streetwear accessories,Thu Feb 16 14:31:26 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],['streetwear'],[],[],[],[],[],[],[],[],[],2023-02-16 14:31:26,fashion accessories ,accessories 
+Fashion Crop Top,Thu Feb 16 07:19:09 +0000 2023,"['crop', 'top']",['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 07:19:09,fashion ,crop top 
+Lingerie Accessories,Thu Feb 16 07:19:09 +0000 2023,"['lingerie', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 07:19:09,accessories ,lingerie accessories 
+fashion boots,Thu Feb 16 09:26:14 +0000 2023,['boots'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 09:26:14,fashion ,boots 
+fashion accessory trends,Thu Feb 16 15:25:46 +0000 2023,['accessory'],"['fashion', 'trends']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 15:25:46,fashion ,accessory 
+Cowprint Accessories,Fri Feb 17 05:52:44 +0000 2023,['accessories'],[],['cowprint'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-17 05:52:44,accessories ,accessories 
+Fashion Statement Belt,Fri Feb 17 05:52:44 +0000 2023,['belt'],['fashion'],[],[],[],[],[],['statement'],[],[],[],[],[],[],[],[],[],2023-02-17 05:52:44,fashion ,belt 
+Chinese traditional costume accessories,Thu Feb 16 12:18:52 +0000 2023,"['costume', 'accessories']",['traditional'],[],[],[],[],[],[],[],['chinese'],[],[],[],[],[],[],[],2023-02-16 12:18:52,accessories ,costume accessories 
+fashion magazines,Thu Feb 16 03:53:41 +0000 2023,['magazines'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 03:53:41,fashion ,magazines 
+accessories for models,Thu Feb 16 03:53:41 +0000 2023,['accessories'],[],[],['models'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-16 03:53:41,accessories ,accessories 
+fashion photography accessories,Wed Feb 15 20:30:07 +0000 2023,['accessories'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-15 20:30:07,fashion accessories ,accessories 
+fashion accessories for men,Tue Feb 14 04:23:20 +0000 2023,['accessories'],['fashion'],[],['men'],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-14 04:23:20,fashion accessories ,accessories 
+fashion subscription box,Tue Feb 14 17:30:24 +0000 2023,['box'],['fashion'],[],[],[],[],[],['subscription'],[],[],[],[],[],[],[],[],[],2023-02-14 17:30:24,fashion ,box 
+fashion ties,Tue Feb 14 17:36:20 +0000 2023,['ties'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-14 17:36:20,fashion ,ties 
+tie accessories,Tue Feb 14 17:36:20 +0000 2023,"['tie', 'accessories']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-14 17:36:20,accessories ,tie accessories 
+Second Life avatar accessories,Tue Feb 14 17:27:28 +0000 2023,['accessories'],[],"['second', 'avatar']",[],[],[],[],['life'],[],[],[],[],[],[],[],[],[],2023-02-14 17:27:28,accessories ,accessories 
+Second Life fashion poses,Tue Feb 14 17:27:28 +0000 2023,[],['fashion'],"['second', 'life']",[],[],[],[],['poses'],[],[],[],[],[],[],[],[],[],2023-02-14 17:27:28,fashion ,
+sparkly fashion pants,Tue Feb 14 18:52:00 +0000 2023,['pants'],"['sparkly', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-14 18:52:00,fashion ,pants 
+Fashion Stole,Wed Feb 15 08:50:03 +0000 2023,['stole'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-15 08:50:03,fashion ,stole 
+Printed Fashion Fabric,Wed Feb 15 08:50:03 +0000 2023,['fabric'],"['printed', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-15 08:50:03,fashion ,fabric 
+fashion jewelry,Wed Feb 15 01:01:06 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-15 01:01:06,fashion ,jewelry 
+Fashion House Merchandise,Wed Feb 15 17:58:53 +0000 2023,['merchandise'],['fashion'],['house'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-15 17:58:53,fashion ,merchandise 
+fashion accessories,Tue Feb 14 20:31:57 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-14 20:31:57,fashion accessories ,accessories 
+Fashion Style Graphic Tees,Tue Feb 14 01:50:10 +0000 2023,['tees'],"['fashion', 'style', 'graphic']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-14 01:50:10,fashion ,tees 
+fashion accessories,Wed Feb 15 07:48:32 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-15 07:48:32,fashion accessories ,accessories 
+fashion lookbooks,Wed Feb 15 07:48:32 +0000 2023,['lookbooks'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-15 07:48:32,fashion ,lookbooks 
+aesthetic fashion accessories,Wed Feb 15 05:49:17 +0000 2023,['accessories'],"['aesthetic', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-15 05:49:17,fashion accessories ,accessories 
+fashion blogger merchandise,Wed Feb 15 05:49:17 +0000 2023,['merchandise'],['fashion'],[],[],[],[],[],['blogger'],[],[],[],[],[],[],[],[],[],2023-02-15 05:49:17,fashion ,merchandise 
+Fashion Logo Apparel,Tue Feb 14 15:31:15 +0000 2023,['apparel'],['fashion'],[],[],[],[],[],['logo'],[],[],[],[],[],[],[],[],[],2023-02-14 15:31:15,fashion ,apparel 
+fashion photography lighting kit,Sat Feb 11 09:17:51 +0000 2023,"['lighting', 'kit']",['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-11 09:17:51,fashion ,lighting kit 
+Streetwear Fashion Set,Sun Feb 12 19:03:10 +0000 2023,[],['fashion'],['streetwear'],[],[],[],[],[],[],[],[],[],[],['set'],[],[],[],2023-02-12 19:03:10,fashion ,
+Fashion Accessories,Sun Feb 12 19:03:10 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-12 19:03:10,fashion accessories ,accessories 
+fashion photography course,Sun Feb 12 16:52:41 +0000 2023,['course'],['fashion'],[],[],['photography'],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-12 16:52:41,fashion ,course 
+fashion designer merchandise,Sat Feb 11 19:31:20 +0000 2023,['merchandise'],"['fashion', 'designer']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-11 19:31:20,fashion ,merchandise 
+designer accessories,Sat Feb 11 19:31:20 +0000 2023,['accessories'],['designer'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-11 19:31:20,accessories ,accessories 
+Second Life avatar accessories,Sun Feb 12 15:45:13 +0000 2023,['accessories'],[],"['second', 'avatar']",[],[],[],[],['life'],[],[],[],[],[],[],[],[],[],2023-02-12 15:45:13,accessories ,accessories 
+virtual fashion outfits,Sun Feb 12 15:45:13 +0000 2023,['outfits'],"['virtual', 'fashion']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-12 15:45:13,fashion ,outfits 
+Fashion accessories,Sun Feb 12 19:55:17 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-12 19:55:17,fashion accessories ,accessories 
+Fashion show tickets,Sun Feb 12 19:55:17 +0000 2023,['tickets'],[],[],[],"['fashion', 'show']",[],[],[],[],[],[],[],[],[],[],[],[],2023-02-12 19:55:17,fashion ,tickets 
+Alternative bridal accessories,Mon Feb 13 11:21:30 +0000 2023,['accessories'],['alternative'],[],[],['bridal'],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-13 11:21:30,accessories ,accessories 
+IVFH Accessories,Mon Feb 13 10:59:47 +0000 2023,['accessories'],[],['ivfh'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-13 10:59:47,accessories ,accessories 
+Fashion House Merchandise,Mon Feb 13 10:59:47 +0000 2023,['merchandise'],['fashion'],['house'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-13 10:59:47,fashion ,merchandise 
+fashion ponchos,Sun Feb 12 04:33:39 +0000 2023,['ponchos'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-12 04:33:39,fashion ,ponchos 
+fashion jewelry,Sun Feb 12 04:33:39 +0000 2023,['jewelry'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-12 04:33:39,fashion ,jewelry 
+fashion accessories,Sun Feb 12 07:39:35 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-12 07:39:35,fashion accessories ,accessories 
+Fashion Blogger Style Guide Book,Mon Feb 13 09:26:33 +0000 2023,['book'],[],['fashion'],[],[],[],[],"['blogger', 'style']",['guide'],[],[],[],[],[],[],[],[],2023-02-13 09:26:33,fashion ,book 
+Photography Equipment for Fashion Shots,Mon Feb 13 09:26:33 +0000 2023,"['photography', 'equipment']",[],[],[],"['fashion', 'shots']",[],[],[],[],[],[],[],[],[],[],[],[],2023-02-13 09:26:33,fashion ,photography equipment 
+Fashion Week Pass,Sat Feb 11 19:27:14 +0000 2023,['pass'],[],['fashion'],[],['week'],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-11 19:27:14,fashion ,pass 
+Fashion Design Sketchbooks,Sat Feb 11 19:27:14 +0000 2023,['sketchbooks'],['fashion'],[],[],['design'],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-11 19:27:14,fashion ,sketchbooks 
+Fashion Week merchandise,Mon Feb 13 13:37:24 +0000 2023,['merchandise'],[],[],[],"['fashion', 'week']",[],[],[],[],[],[],[],[],[],[],[],[],2023-02-13 13:37:24,fashion ,merchandise 
+Fashion-related accessories,Mon Feb 13 13:37:24 +0000 2023,['accessories'],"['fashion', '-', 'related']",[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-13 13:37:24,fashion accessories ,accessories 
+Fashion media subscriptions,Mon Feb 13 13:37:24 +0000 2023,[],['fashion'],[],['subscriptions'],[],[],[],['media'],[],[],[],[],[],[],[],[],[],2023-02-13 13:37:24,fashion ,
+fashion accessories,Sat Feb 11 03:06:40 +0000 2023,['accessories'],['fashion'],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],2023-02-11 03:06:40,fashion accessories ,accessories 
+winter fashion tops,Sun Feb 12 14:42:21 +0000 2023,['tops'],['fashion'],[],[],[],[],[],[],[],[],[],['winter'],[],[],[],[],[],2023-02-12 14:42:21,fashion ,tops 
